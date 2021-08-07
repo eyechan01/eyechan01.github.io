@@ -1,0 +1,780 @@
+﻿Variable,Country,Year,Value
+Immunisation: Measles,Italy,2000,74
+Immunisation: Measles,Austria,2000,75
+Immunisation: Measles,Turkey,2000,76
+Immunisation: Measles,Ireland,2000,79
+Immunisation: Measles,Belgium,2000,82
+Immunisation: Measles,Switzerland,2000,82
+Immunisation: Measles,Costa Rica,2000,82
+Immunisation: Measles,France,2000,84
+Immunisation: Measles,China (People's Republic of),2000,84
+Immunisation: Measles,New Zealand,2000,85
+Immunisation: Measles,Portugal,2000,87
+Immunisation: Measles,Norway,2000,88
+Immunisation: Measles,United Kingdom,2000,88
+Immunisation: Measles,Colombia,2000,88
+Immunisation: Measles,Greece,2000,89
+Immunisation: Measles,Australia,2000,91
+Immunisation: Measles,Iceland,2000,91
+Immunisation: Measles,Sweden,2000,91
+Immunisation: Measles,United States,2000,91
+Immunisation: Measles,Germany,2000,92
+Immunisation: Measles,Luxembourg,2000,93
+Immunisation: Measles,Estonia,2000,93
+Immunisation: Measles,Spain,2000,94
+Immunisation: Measles,Korea,2000,95
+Immunisation: Measles,Slovenia,2000,95
+Immunisation: Measles,Canada,2000,96
+Immunisation: Measles,Finland,2000,96
+Immunisation: Measles,Japan,2000,96
+Immunisation: Measles,Mexico,2000,96
+Immunisation: Measles,Netherlands,2000,96
+Immunisation: Measles,Czech Republic,2000,97
+Immunisation: Measles,Poland,2000,97
+Immunisation: Measles,Chile,2000,97
+Immunisation: Measles,Israel,2000,97
+Immunisation: Measles,Russia,2000,97
+Immunisation: Measles,Lithuania,2000,97
+Immunisation: Measles,Latvia,2000,97
+Immunisation: Measles,Slovak Republic,2000,98
+Immunisation: Measles,Denmark,2000,99
+Immunisation: Measles,Brazil,2000,99
+Immunisation: Measles,Hungary,2000,100
+Immunisation: Measles,Ireland,2001,73
+Immunisation: Measles,Italy,2001,77
+Immunisation: Measles,Austria,2001,79
+Immunisation: Measles,Belgium,2001,82
+Immunisation: Measles,Switzerland,2001,82
+Immunisation: Measles,Costa Rica,2001,82
+Immunisation: Measles,Turkey,2001,84
+Immunisation: Measles,France,2001,85
+Immunisation: Measles,New Zealand,2001,85
+Immunisation: Measles,United Kingdom,2001,85
+Immunisation: Measles,China (People's Republic of),2001,85
+Immunisation: Measles,Iceland,2001,88
+Immunisation: Measles,Norway,2001,90
+Immunisation: Measles,Portugal,2001,90
+Immunisation: Measles,Greece,2001,91
+Immunisation: Measles,United States,2001,91
+Immunisation: Measles,Australia,2001,92
+Immunisation: Measles,Colombia,2001,93
+Immunisation: Measles,Denmark,2001,94
+Immunisation: Measles,Germany,2001,94
+Immunisation: Measles,Luxembourg,2001,94
+Immunisation: Measles,Sweden,2001,94
+Immunisation: Measles,Slovenia,2001,94
+Immunisation: Measles,Canada,2001,95
+Immunisation: Measles,Mexico,2001,95
+Immunisation: Measles,Netherlands,2001,95
+Immunisation: Measles,Estonia,2001,95
+Immunisation: Measles,Finland,2001,96
+Immunisation: Measles,Korea,2001,96
+Immunisation: Measles,Spain,2001,96
+Immunisation: Measles,Chile,2001,96
+Immunisation: Measles,Israel,2001,96
+Immunisation: Measles,Czech Republic,2001,97
+Immunisation: Measles,Poland,2001,97
+Immunisation: Measles,Lithuania,2001,97
+Immunisation: Measles,Japan,2001,98
+Immunisation: Measles,Russia,2001,98
+Immunisation: Measles,Latvia,2001,98
+Immunisation: Measles,Slovak Republic,2001,99
+Immunisation: Measles,Brazil,2001,99
+Immunisation: Measles,Hungary,2001,100
+Immunisation: Measles,Ireland,2002,73
+Immunisation: Measles,Austria,2002,78
+Immunisation: Measles,Italy,2002,81
+Immunisation: Measles,Belgium,2002,82
+Immunisation: Measles,Switzerland,2002,82
+Immunisation: Measles,Turkey,2002,82
+Immunisation: Measles,New Zealand,2002,84
+Immunisation: Measles,United Kingdom,2002,85
+Immunisation: Measles,China (People's Republic of),2002,85
+Immunisation: Measles,France,2002,86
+Immunisation: Measles,Norway,2002,87
+Immunisation: Measles,Iceland,2002,91
+Immunisation: Measles,United States,2002,91
+Immunisation: Measles,Germany,2002,92
+Immunisation: Measles,Greece,2002,92
+Immunisation: Measles,Portugal,2002,92
+Immunisation: Measles,Slovenia,2002,93
+Immunisation: Measles,Colombia,2002,93
+Immunisation: Measles,Australia,2002,94
+Immunisation: Measles,Luxembourg,2002,94
+Immunisation: Measles,Costa Rica,2002,94
+Immunisation: Measles,Canada,2002,95
+Immunisation: Measles,Netherlands,2002,95
+Immunisation: Measles,Sweden,2002,95
+Immunisation: Measles,Chile,2002,95
+Immunisation: Measles,Estonia,2002,95
+Immunisation: Measles,Finland,2002,96
+Immunisation: Measles,Mexico,2002,96
+Immunisation: Measles,Brazil,2002,96
+Immunisation: Measles,Korea,2002,97
+Immunisation: Measles,Spain,2002,97
+Immunisation: Measles,Czech Republic,2002,98
+Immunisation: Measles,Japan,2002,98
+Immunisation: Measles,Poland,2002,98
+Immunisation: Measles,Israel,2002,98
+Immunisation: Measles,Russia,2002,98
+Immunisation: Measles,Lithuania,2002,98
+Immunisation: Measles,Latvia,2002,98
+Immunisation: Measles,Slovak Republic,2002,99
+Immunisation: Measles,Hungary,2002,100
+Immunisation: Measles,Denmark,2002,102
+Immunisation: Measles,Turkey,2003,75
+Immunisation: Measles,Ireland,2003,78
+Immunisation: Measles,Austria,2003,79
+Immunisation: Measles,Belgium,2003,82
+Immunisation: Measles,Switzerland,2003,82
+Immunisation: Measles,United Kingdom,2003,82
+Immunisation: Measles,Italy,2003,84
+Immunisation: Measles,New Zealand,2003,84
+Immunisation: Measles,China (People's Republic of),2003,85
+Immunisation: Measles,Norway,2003,86
+Immunisation: Measles,France,2003,87
+Immunisation: Measles,Costa Rica,2003,89
+Immunisation: Measles,Colombia,2003,92
+Immunisation: Measles,Iceland,2003,93
+Immunisation: Measles,United States,2003,93
+Immunisation: Measles,Australia,2003,94
+Immunisation: Measles,Greece,2003,94
+Immunisation: Measles,Slovenia,2003,94
+Immunisation: Measles,Canada,2003,95
+Immunisation: Measles,Germany,2003,95
+Immunisation: Measles,Luxembourg,2003,95
+Immunisation: Measles,Sweden,2003,95
+Immunisation: Measles,Estonia,2003,95
+Immunisation: Measles,Israel,2003,95
+Immunisation: Measles,Denmark,2003,96
+Immunisation: Measles,Korea,2003,96
+Immunisation: Measles,Mexico,2003,96
+Immunisation: Measles,Netherlands,2003,96
+Immunisation: Measles,Portugal,2003,96
+Immunisation: Measles,Chile,2003,96
+Immunisation: Measles,Finland,2003,97
+Immunisation: Measles,Brazil,2003,97
+Immunisation: Measles,Russia,2003,97
+Immunisation: Measles,Japan,2003,98
+Immunisation: Measles,Poland,2003,98
+Immunisation: Measles,Spain,2003,98
+Immunisation: Measles,Lithuania,2003,98
+Immunisation: Measles,Latvia,2003,98
+Immunisation: Measles,Czech Republic,2003,99
+Immunisation: Measles,Slovak Republic,2003,99
+Immunisation: Measles,Hungary,2003,100
+Immunisation: Measles,Austria,2004,74
+Immunisation: Measles,Ireland,2004,81
+Immunisation: Measles,Turkey,2004,81
+Immunisation: Measles,United Kingdom,2004,81
+Immunisation: Measles,Belgium,2004,82
+Immunisation: Measles,Switzerland,2004,82
+Immunisation: Measles,New Zealand,2004,83
+Immunisation: Measles,Italy,2004,86
+Immunisation: Measles,China (People's Republic of),2004,86
+Immunisation: Measles,France,2004,88
+Immunisation: Measles,Costa Rica,2004,88
+Immunisation: Measles,Norway,2004,89
+Immunisation: Measles,Germany,2004,92
+Immunisation: Measles,Iceland,2004,93
+Immunisation: Measles,United States,2004,93
+Immunisation: Measles,Australia,2004,94
+Immunisation: Measles,Canada,2004,94
+Immunisation: Measles,Chile,2004,94
+Immunisation: Measles,Slovenia,2004,94
+Immunisation: Measles,Colombia,2004,94
+Immunisation: Measles,Greece,2004,95
+Immunisation: Measles,Luxembourg,2004,95
+Immunisation: Measles,Portugal,2004,95
+Immunisation: Measles,Denmark,2004,96
+Immunisation: Measles,Mexico,2004,96
+Immunisation: Measles,Netherlands,2004,96
+Immunisation: Measles,Sweden,2004,96
+Immunisation: Measles,Estonia,2004,96
+Immunisation: Measles,Czech Republic,2004,97
+Immunisation: Measles,Finland,2004,97
+Immunisation: Measles,Poland,2004,97
+Immunisation: Measles,Spain,2004,97
+Immunisation: Measles,Brazil,2004,97
+Immunisation: Measles,Israel,2004,97
+Immunisation: Measles,Japan,2004,98
+Immunisation: Measles,Russia,2004,98
+Immunisation: Measles,Lithuania,2004,98
+Immunisation: Measles,Latvia,2004,98
+Immunisation: Measles,Slovak Republic,2004,99
+Immunisation: Measles,Hungary,2004,100
+Immunisation: Measles,Korea,2004,100
+Immunisation: Measles,Austria,2005,75
+Immunisation: Measles,New Zealand,2005,82
+Immunisation: Measles,United Kingdom,2005,82
+Immunisation: Measles,Ireland,2005,84
+Immunisation: Measles,China (People's Republic of),2005,86
+Immunisation: Measles,France,2005,87
+Immunisation: Measles,Italy,2005,87
+Immunisation: Measles,Switzerland,2005,87
+Immunisation: Measles,Belgium,2005,88
+Immunisation: Measles,Costa Rica,2005,89
+Immunisation: Measles,Iceland,2005,90
+Immunisation: Measles,Norway,2005,90
+Immunisation: Measles,Chile,2005,90
+Immunisation: Measles,Turkey,2005,91
+Immunisation: Measles,Germany,2005,92
+Immunisation: Measles,United States,2005,92
+Immunisation: Measles,Portugal,2005,93
+Immunisation: Measles,Australia,2005,94
+Immunisation: Measles,Canada,2005,94
+Immunisation: Measles,Israel,2005,94
+Immunisation: Measles,Slovenia,2005,94
+Immunisation: Measles,Denmark,2005,95
+Immunisation: Measles,Luxembourg,2005,95
+Immunisation: Measles,Netherlands,2005,95
+Immunisation: Measles,Greece,2005,96
+Immunisation: Measles,Mexico,2005,96
+Immunisation: Measles,Sweden,2005,96
+Immunisation: Measles,Estonia,2005,96
+Immunisation: Measles,Colombia,2005,96
+Immunisation: Measles,Czech Republic,2005,97
+Immunisation: Measles,Finland,2005,97
+Immunisation: Measles,Spain,2005,97
+Immunisation: Measles,Lithuania,2005,97
+Immunisation: Measles,Japan,2005,98
+Immunisation: Measles,Poland,2005,98
+Immunisation: Measles,Slovak Republic,2005,98
+Immunisation: Measles,Brazil,2005,98
+Immunisation: Measles,Latvia,2005,98
+Immunisation: Measles,Russia,2005,99
+Immunisation: Measles,Hungary,2005,100
+Immunisation: Measles,Korea,2005,100
+Immunisation: Measles,Austria,2006,80
+Immunisation: Measles,New Zealand,2006,82
+Immunisation: Measles,United Kingdom,2006,85
+Immunisation: Measles,Ireland,2006,86
+Immunisation: Measles,Switzerland,2006,87
+Immunisation: Measles,Italy,2006,88
+Immunisation: Measles,France,2006,89
+Immunisation: Measles,Denmark,2006,90
+Immunisation: Measles,Costa Rica,2006,90
+Immunisation: Measles,Chile,2006,91
+Immunisation: Measles,Belgium,2006,92
+Immunisation: Measles,Norway,2006,92
+Immunisation: Measles,United States,2006,92
+Immunisation: Measles,Canada,2006,93
+Immunisation: Measles,China (People's Republic of),2006,93
+Immunisation: Measles,Australia,2006,94
+Immunisation: Measles,Germany,2006,94
+Immunisation: Measles,Portugal,2006,94
+Immunisation: Measles,Iceland,2006,95
+Immunisation: Measles,Luxembourg,2006,95
+Immunisation: Measles,Colombia,2006,95
+Immunisation: Measles,Mexico,2006,96
+Immunisation: Measles,Netherlands,2006,96
+Immunisation: Measles,Estonia,2006,96
+Immunisation: Measles,Israel,2006,96
+Immunisation: Measles,Slovenia,2006,96
+Immunisation: Measles,Czech Republic,2006,97
+Immunisation: Measles,Finland,2006,97
+Immunisation: Measles,Japan,2006,97
+Immunisation: Measles,Spain,2006,97
+Immunisation: Measles,Sweden,2006,97
+Immunisation: Measles,Lithuania,2006,97
+Immunisation: Measles,Greece,2006,98
+Immunisation: Measles,Slovak Republic,2006,98
+Immunisation: Measles,Turkey,2006,98
+Immunisation: Measles,Latvia,2006,98
+Immunisation: Measles,Poland,2006,99
+Immunisation: Measles,Brazil,2006,99
+Immunisation: Measles,Russia,2006,99
+Immunisation: Measles,Hungary,2006,100
+Immunisation: Measles,Korea,2006,100
+Immunisation: Measles,Austria,2007,79
+Immunisation: Measles,New Zealand,2007,79
+Immunisation: Measles,United Kingdom,2007,86
+Immunisation: Measles,Ireland,2007,87
+Immunisation: Measles,Switzerland,2007,87
+Immunisation: Measles,Denmark,2007,89
+Immunisation: Measles,France,2007,90
+Immunisation: Measles,Italy,2007,90
+Immunisation: Measles,Costa Rica,2007,90
+Immunisation: Measles,Belgium,2007,92
+Immunisation: Measles,Korea,2007,92
+Immunisation: Measles,Norway,2007,92
+Immunisation: Measles,Portugal,2007,92
+Immunisation: Measles,United States,2007,92
+Immunisation: Measles,Chile,2007,92
+Immunisation: Measles,Colombia,2007,93
+Immunisation: Measles,Australia,2007,94
+Immunisation: Measles,Canada,2007,94
+Immunisation: Measles,Germany,2007,94
+Immunisation: Measles,China (People's Republic of),2007,94
+Immunisation: Measles,Iceland,2007,95
+Immunisation: Measles,Latvia,2007,95
+Immunisation: Measles,Japan,2007,96
+Immunisation: Measles,Luxembourg,2007,96
+Immunisation: Measles,Mexico,2007,96
+Immunisation: Measles,Netherlands,2007,96
+Immunisation: Measles,Sweden,2007,96
+Immunisation: Measles,Turkey,2007,96
+Immunisation: Measles,Estonia,2007,96
+Immunisation: Measles,Slovenia,2007,96
+Immunisation: Measles,Spain,2007,97
+Immunisation: Measles,Israel,2007,97
+Immunisation: Measles,Lithuania,2007,97
+Immunisation: Measles,Czech Republic,2007,98
+Immunisation: Measles,Finland,2007,98
+Immunisation: Measles,Poland,2007,98
+Immunisation: Measles,Greece,2007,99
+Immunisation: Measles,Slovak Republic,2007,99
+Immunisation: Measles,Brazil,2007,99
+Immunisation: Measles,Russia,2007,99
+Immunisation: Measles,Hungary,2007,100
+Immunisation: Measles,Austria,2008,83
+Immunisation: Measles,New Zealand,2008,86
+Immunisation: Measles,United Kingdom,2008,86
+Immunisation: Measles,Denmark,2008,87
+Immunisation: Measles,France,2008,89
+Immunisation: Measles,Ireland,2008,89
+Immunisation: Measles,Costa Rica,2008,89
+Immunisation: Measles,Italy,2008,90
+Immunisation: Measles,Korea,2008,92
+Immunisation: Measles,Switzerland,2008,92
+Immunisation: Measles,United States,2008,92
+Immunisation: Measles,Colombia,2008,92
+Immunisation: Measles,Belgium,2008,93
+Immunisation: Measles,Canada,2008,93
+Immunisation: Measles,Norway,2008,93
+Immunisation: Measles,Australia,2008,94
+Immunisation: Measles,Germany,2008,95
+Immunisation: Measles,Japan,2008,95
+Immunisation: Measles,Estonia,2008,95
+Immunisation: Measles,Iceland,2008,96
+Immunisation: Measles,Luxembourg,2008,96
+Immunisation: Measles,Mexico,2008,96
+Immunisation: Measles,Netherlands,2008,96
+Immunisation: Measles,Sweden,2008,96
+Immunisation: Measles,Chile,2008,96
+Immunisation: Measles,Slovenia,2008,96
+Immunisation: Measles,Latvia,2008,96
+Immunisation: Measles,Czech Republic,2008,97
+Immunisation: Measles,Finland,2008,97
+Immunisation: Measles,Portugal,2008,97
+Immunisation: Measles,Turkey,2008,97
+Immunisation: Measles,China (People's Republic of),2008,97
+Immunisation: Measles,Lithuania,2008,97
+Immunisation: Measles,Poland,2008,98
+Immunisation: Measles,Spain,2008,98
+Immunisation: Measles,Israel,2008,98
+Immunisation: Measles,Greece,2008,99
+Immunisation: Measles,Slovak Republic,2008,99
+Immunisation: Measles,Brazil,2008,99
+Immunisation: Measles,Russia,2008,99
+Immunisation: Measles,Hungary,2008,100
+Immunisation: Measles,Austria,2009,76
+Immunisation: Measles,Costa Rica,2009,81
+Immunisation: Measles,Denmark,2009,84
+Immunisation: Measles,United Kingdom,2009,86
+Immunisation: Measles,France,2009,89
+Immunisation: Measles,New Zealand,2009,89
+Immunisation: Measles,Ireland,2009,90
+Immunisation: Measles,Italy,2009,90
+Immunisation: Measles,United States,2009,90
+Immunisation: Measles,Canada,2009,91
+Immunisation: Measles,Iceland,2009,92
+Immunisation: Measles,Switzerland,2009,92
+Immunisation: Measles,Latvia,2009,92
+Immunisation: Measles,Korea,2009,93
+Immunisation: Measles,Norway,2009,93
+Immunisation: Measles,Chile,2009,93
+Immunisation: Measles,Australia,2009,94
+Immunisation: Measles,Japan,2009,94
+Immunisation: Measles,Belgium,2009,95
+Immunisation: Measles,Estonia,2009,95
+Immunisation: Measles,Slovenia,2009,95
+Immunisation: Measles,Colombia,2009,95
+Immunisation: Measles,Germany,2009,96
+Immunisation: Measles,Luxembourg,2009,96
+Immunisation: Measles,Mexico,2009,96
+Immunisation: Measles,Netherlands,2009,96
+Immunisation: Measles,Portugal,2009,96
+Immunisation: Measles,Spain,2009,97
+Immunisation: Measles,Sweden,2009,97
+Immunisation: Measles,Turkey,2009,97
+Immunisation: Measles,Israel,2009,97
+Immunisation: Measles,Lithuania,2009,97
+Immunisation: Measles,Czech Republic,2009,98
+Immunisation: Measles,Finland,2009,98
+Immunisation: Measles,Poland,2009,98
+Immunisation: Measles,Greece,2009,99
+Immunisation: Measles,Slovak Republic,2009,99
+Immunisation: Measles,Brazil,2009,99
+Immunisation: Measles,China (People's Republic of),2009,99
+Immunisation: Measles,Russia,2009,99
+Immunisation: Measles,Hungary,2009,100
+Immunisation: Measles,Austria,2010,80
+Immunisation: Measles,Costa Rica,2010,83
+Immunisation: Measles,Denmark,2010,85
+Immunisation: Measles,Colombia,2010,88
+Immunisation: Measles,France,2010,89
+Immunisation: Measles,United Kingdom,2010,89
+Immunisation: Measles,Canada,2010,90
+Immunisation: Measles,Ireland,2010,90
+Immunisation: Measles,Italy,2010,91
+Immunisation: Measles,New Zealand,2010,91
+Immunisation: Measles,Switzerland,2010,92
+Immunisation: Measles,United States,2010,92
+Immunisation: Measles,Iceland,2010,93
+Immunisation: Measles,Norway,2010,93
+Immunisation: Measles,Chile,2010,93
+Immunisation: Measles,Australia,2010,94
+Immunisation: Measles,Japan,2010,94
+Immunisation: Measles,Belgium,2010,95
+Immunisation: Measles,Korea,2010,95
+Immunisation: Measles,Mexico,2010,95
+Immunisation: Measles,Spain,2010,95
+Immunisation: Measles,Estonia,2010,95
+Immunisation: Measles,Slovenia,2010,95
+Immunisation: Measles,Latvia,2010,95
+Immunisation: Measles,Germany,2010,96
+Immunisation: Measles,Luxembourg,2010,96
+Immunisation: Measles,Netherlands,2010,96
+Immunisation: Measles,Portugal,2010,96
+Immunisation: Measles,Israel,2010,96
+Immunisation: Measles,Lithuania,2010,96
+Immunisation: Measles,Sweden,2010,97
+Immunisation: Measles,Turkey,2010,97
+Immunisation: Measles,Czech Republic,2010,98
+Immunisation: Measles,Finland,2010,98
+Immunisation: Measles,Poland,2010,98
+Immunisation: Measles,Slovak Republic,2010,98
+Immunisation: Measles,Russia,2010,98
+Immunisation: Measles,Greece,2010,99
+Immunisation: Measles,Brazil,2010,99
+Immunisation: Measles,China (People's Republic of),2010,99
+Immunisation: Measles,Hungary,2010,100
+Immunisation: Measles,Costa Rica,2011,83
+Immunisation: Measles,Austria,2011,84
+Immunisation: Measles,Denmark,2011,87
+Immunisation: Measles,Canada,2011,88
+Immunisation: Measles,Colombia,2011,88
+Immunisation: Measles,France,2011,89
+Immunisation: Measles,Italy,2011,90
+Immunisation: Measles,United Kingdom,2011,90
+Immunisation: Measles,Chile,2011,91
+Immunisation: Measles,Ireland,2011,92
+Immunisation: Measles,United States,2011,92
+Immunisation: Measles,Latvia,2011,92
+Immunisation: Measles,New Zealand,2011,93
+Immunisation: Measles,Norway,2011,93
+Immunisation: Measles,Switzerland,2011,93
+Immunisation: Measles,Australia,2011,94
+Immunisation: Measles,Iceland,2011,94
+Immunisation: Measles,Japan,2011,94
+Immunisation: Measles,Estonia,2011,94
+Immunisation: Measles,Lithuania,2011,94
+Immunisation: Measles,Belgium,2011,95
+Immunisation: Measles,Germany,2011,96
+Immunisation: Measles,Luxembourg,2011,96
+Immunisation: Measles,Netherlands,2011,96
+Immunisation: Measles,Slovenia,2011,96
+Immunisation: Measles,Finland,2011,97
+Immunisation: Measles,Portugal,2011,97
+Immunisation: Measles,Spain,2011,97
+Immunisation: Measles,Sweden,2011,97
+Immunisation: Measles,Israel,2011,97
+Immunisation: Measles,Czech Republic,2011,98
+Immunisation: Measles,Mexico,2011,98
+Immunisation: Measles,Poland,2011,98
+Immunisation: Measles,Slovak Republic,2011,98
+Immunisation: Measles,Turkey,2011,98
+Immunisation: Measles,Russia,2011,98
+Immunisation: Measles,Greece,2011,99
+Immunisation: Measles,Korea,2011,99
+Immunisation: Measles,Brazil,2011,99
+Immunisation: Measles,China (People's Republic of),2011,99
+Immunisation: Measles,Hungary,2011,100
+Immunisation: Measles,Denmark,2012,87
+Immunisation: Measles,Austria,2012,88
+Immunisation: Measles,Canada,2012,89
+Immunisation: Measles,Iceland,2012,90
+Immunisation: Measles,Italy,2012,90
+Immunisation: Measles,Chile,2012,90
+Immunisation: Measles,Latvia,2012,90
+Immunisation: Measles,Costa Rica,2012,90
+Immunisation: Measles,France,2012,91
+Immunisation: Measles,United States,2012,91
+Immunisation: Measles,Ireland,2012,92
+Immunisation: Measles,New Zealand,2012,92
+Immunisation: Measles,United Kingdom,2012,92
+Immunisation: Measles,Switzerland,2012,93
+Immunisation: Measles,Lithuania,2012,93
+Immunisation: Measles,Australia,2012,94
+Immunisation: Measles,Norway,2012,94
+Immunisation: Measles,Estonia,2012,94
+Immunisation: Measles,Colombia,2012,94
+Immunisation: Measles,Korea,2012,95
+Immunisation: Measles,Slovenia,2012,95
+Immunisation: Measles,Belgium,2012,96
+Immunisation: Measles,Japan,2012,96
+Immunisation: Measles,Netherlands,2012,96
+Immunisation: Measles,Turkey,2012,96
+Immunisation: Measles,Israel,2012,96
+Immunisation: Measles,Finland,2012,97
+Immunisation: Measles,Germany,2012,97
+Immunisation: Measles,Portugal,2012,97
+Immunisation: Measles,Spain,2012,97
+Immunisation: Measles,Czech Republic,2012,98
+Immunisation: Measles,Poland,2012,98
+Immunisation: Measles,Sweden,2012,98
+Immunisation: Measles,Russia,2012,98
+Immunisation: Measles,Greece,2012,99
+Immunisation: Measles,Luxembourg,2012,99
+Immunisation: Measles,Mexico,2012,99
+Immunisation: Measles,Slovak Republic,2012,99
+Immunisation: Measles,Brazil,2012,99
+Immunisation: Measles,China (People's Republic of),2012,99
+Immunisation: Measles,Hungary,2012,100
+Immunisation: Measles,Denmark,2013,86
+Immunisation: Measles,Mexico,2013,89
+Immunisation: Measles,Canada,2013,90
+Immunisation: Measles,France,2013,90
+Immunisation: Measles,Italy,2013,90
+Immunisation: Measles,Chile,2013,90
+Immunisation: Measles,Iceland,2013,91
+Immunisation: Measles,Costa Rica,2013,91
+Immunisation: Measles,Austria,2013,92
+Immunisation: Measles,New Zealand,2013,92
+Immunisation: Measles,United States,2013,92
+Immunisation: Measles,Colombia,2013,92
+Immunisation: Measles,Ireland,2013,93
+Immunisation: Measles,Norway,2013,93
+Immunisation: Measles,Switzerland,2013,93
+Immunisation: Measles,United Kingdom,2013,93
+Immunisation: Measles,Lithuania,2013,93
+Immunisation: Measles,Australia,2013,94
+Immunisation: Measles,Estonia,2013,94
+Immunisation: Measles,Slovenia,2013,94
+Immunisation: Measles,Japan,2013,95
+Immunisation: Measles,Spain,2013,95
+Immunisation: Measles,Belgium,2013,96
+Immunisation: Measles,Netherlands,2013,96
+Immunisation: Measles,Latvia,2013,96
+Immunisation: Measles,Finland,2013,97
+Immunisation: Measles,Germany,2013,97
+Immunisation: Measles,Korea,2013,97
+Immunisation: Measles,Sweden,2013,97
+Immunisation: Measles,Poland,2013,98
+Immunisation: Measles,Portugal,2013,98
+Immunisation: Measles,Slovak Republic,2013,98
+Immunisation: Measles,Turkey,2013,98
+Immunisation: Measles,Brazil,2013,98
+Immunisation: Measles,Israel,2013,98
+Immunisation: Measles,Russia,2013,98
+Immunisation: Measles,Czech Republic,2013,99
+Immunisation: Measles,Greece,2013,99
+Immunisation: Measles,Luxembourg,2013,99
+Immunisation: Measles,China (People's Republic of),2013,99
+Immunisation: Measles,Hungary,2013,100
+Immunisation: Measles,Denmark,2014,87
+Immunisation: Measles,Italy,2014,87
+Immunisation: Measles,Canada,2014,90
+Immunisation: Measles,Iceland,2014,90
+Immunisation: Measles,France,2014,91
+Immunisation: Measles,Colombia,2014,91
+Immunisation: Measles,United States,2014,92
+Immunisation: Measles,Ireland,2014,93
+Immunisation: Measles,New Zealand,2014,93
+Immunisation: Measles,United Kingdom,2014,93
+Immunisation: Measles,Estonia,2014,93
+Immunisation: Measles,Lithuania,2014,93
+Immunisation: Measles,Australia,2014,94
+Immunisation: Measles,Norway,2014,94
+Immunisation: Measles,Switzerland,2014,94
+Immunisation: Measles,Turkey,2014,94
+Immunisation: Measles,Slovenia,2014,94
+Immunisation: Measles,Latvia,2014,95
+Immunisation: Measles,Costa Rica,2014,95
+Immunisation: Measles,Austria,2014,96
+Immunisation: Measles,Belgium,2014,96
+Immunisation: Measles,Finland,2014,96
+Immunisation: Measles,Netherlands,2014,96
+Immunisation: Measles,Spain,2014,96
+Immunisation: Measles,Germany,2014,97
+Immunisation: Measles,Greece,2014,97
+Immunisation: Measles,Korea,2014,97
+Immunisation: Measles,Poland,2014,97
+Immunisation: Measles,Slovak Republic,2014,97
+Immunisation: Measles,Sweden,2014,97
+Immunisation: Measles,Brazil,2014,97
+Immunisation: Measles,Chile,2014,97
+Immunisation: Measles,Israel,2014,97
+Immunisation: Measles,Japan,2014,98
+Immunisation: Measles,Mexico,2014,98
+Immunisation: Measles,Portugal,2014,98
+Immunisation: Measles,Russia,2014,98
+Immunisation: Measles,Czech Republic,2014,99
+Immunisation: Measles,Luxembourg,2014,99
+Immunisation: Measles,China (People's Republic of),2014,99
+Immunisation: Measles,Hungary,2014,100
+Immunisation: Measles,Italy,2015,85
+Immunisation: Measles,Denmark,2015,88
+Immunisation: Measles,Canada,2015,89
+Immunisation: Measles,France,2015,91
+Immunisation: Measles,United States,2015,92
+Immunisation: Measles,Iceland,2015,93
+Immunisation: Measles,Ireland,2015,93
+Immunisation: Measles,New Zealand,2015,93
+Immunisation: Measles,United Kingdom,2015,93
+Immunisation: Measles,Estonia,2015,93
+Immunisation: Measles,Costa Rica,2015,93
+Immunisation: Measles,Switzerland,2015,94
+Immunisation: Measles,Slovenia,2015,94
+Immunisation: Measles,Colombia,2015,94
+Immunisation: Measles,Lithuania,2015,94
+Immunisation: Measles,Australia,2015,95
+Immunisation: Measles,Finland,2015,95
+Immunisation: Measles,Netherlands,2015,95
+Immunisation: Measles,Norway,2015,95
+Immunisation: Measles,Slovak Republic,2015,95
+Immunisation: Measles,Austria,2015,96
+Immunisation: Measles,Belgium,2015,96
+Immunisation: Measles,Japan,2015,96
+Immunisation: Measles,Poland,2015,96
+Immunisation: Measles,Spain,2015,96
+Immunisation: Measles,Brazil,2015,96
+Immunisation: Measles,Chile,2015,96
+Immunisation: Measles,Latvia,2015,96
+Immunisation: Measles,Germany,2015,97
+Immunisation: Measles,Greece,2015,97
+Immunisation: Measles,Mexico,2015,97
+Immunisation: Measles,Turkey,2015,97
+Immunisation: Measles,Korea,2015,98
+Immunisation: Measles,Portugal,2015,98
+Immunisation: Measles,Sweden,2015,98
+Immunisation: Measles,Israel,2015,98
+Immunisation: Measles,Russia,2015,98
+Immunisation: Measles,Czech Republic,2015,99
+Immunisation: Measles,Luxembourg,2015,99
+Immunisation: Measles,China (People's Republic of),2015,99
+Immunisation: Measles,Hungary,2015,100
+Immunisation: Measles,Italy,2016,87
+Immunisation: Measles,Canada,2016,89
+Immunisation: Measles,Denmark,2016,91
+Immunisation: Measles,France,2016,91
+Immunisation: Measles,Iceland,2016,92
+Immunisation: Measles,Ireland,2016,92
+Immunisation: Measles,New Zealand,2016,92
+Immunisation: Measles,United Kingdom,2016,92
+Immunisation: Measles,United States,2016,92
+Immunisation: Measles,Slovenia,2016,92
+Immunisation: Measles,Chile,2016,93
+Immunisation: Measles,Estonia,2016,93
+Immunisation: Measles,Colombia,2016,93
+Immunisation: Measles,Latvia,2016,93
+Immunisation: Measles,Costa Rica,2016,93
+Immunisation: Measles,Finland,2016,94
+Immunisation: Measles,Netherlands,2016,94
+Immunisation: Measles,Switzerland,2016,94
+Immunisation: Measles,Lithuania,2016,94
+Immunisation: Measles,Australia,2016,95
+Immunisation: Measles,Austria,2016,95
+Immunisation: Measles,Slovak Republic,2016,95
+Immunisation: Measles,Brazil,2016,95
+Immunisation: Measles,Belgium,2016,96
+Immunisation: Measles,Japan,2016,96
+Immunisation: Measles,Norway,2016,96
+Immunisation: Measles,Poland,2016,96
+Immunisation: Measles,Germany,2016,97
+Immunisation: Measles,Greece,2016,97
+Immunisation: Measles,Mexico,2016,97
+Immunisation: Measles,Spain,2016,97
+Immunisation: Measles,Sweden,2016,97
+Immunisation: Measles,Israel,2016,97
+Immunisation: Measles,Czech Republic,2016,98
+Immunisation: Measles,Korea,2016,98
+Immunisation: Measles,Portugal,2016,98
+Immunisation: Measles,Turkey,2016,98
+Immunisation: Measles,Russia,2016,98
+Immunisation: Measles,Luxembourg,2016,99
+Immunisation: Measles,China (People's Republic of),2016,99
+Immunisation: Measles,Hungary,2016,100
+Immunisation: Measles,Mexico,2017,76
+Immunisation: Measles,Canada,2017,90
+Immunisation: Measles,France,2017,90
+Immunisation: Measles,Brazil,2017,91
+Immunisation: Measles,Iceland,2017,92
+Immunisation: Measles,Ireland,2017,92
+Immunisation: Measles,Italy,2017,92
+Immunisation: Measles,United Kingdom,2017,92
+Immunisation: Measles,United States,2017,92
+Immunisation: Measles,Netherlands,2017,93
+Immunisation: Measles,New Zealand,2017,93
+Immunisation: Measles,Chile,2017,93
+Immunisation: Measles,Estonia,2017,93
+Immunisation: Measles,Slovenia,2017,93
+Immunisation: Measles,Colombia,2017,93
+Immunisation: Measles,Denmark,2017,94
+Immunisation: Measles,Finland,2017,94
+Immunisation: Measles,Poland,2017,94
+Immunisation: Measles,Lithuania,2017,94
+Immunisation: Measles,Australia,2017,95
+Immunisation: Measles,Switzerland,2017,95
+Immunisation: Measles,Austria,2017,96
+Immunisation: Measles,Belgium,2017,96
+Immunisation: Measles,Norway,2017,96
+Immunisation: Measles,Slovak Republic,2017,96
+Immunisation: Measles,Turkey,2017,96
+Immunisation: Measles,Latvia,2017,96
+Immunisation: Measles,Costa Rica,2017,96
+Immunisation: Measles,Czech Republic,2017,97
+Immunisation: Measles,Germany,2017,97
+Immunisation: Measles,Greece,2017,97
+Immunisation: Measles,Japan,2017,97
+Immunisation: Measles,Korea,2017,97
+Immunisation: Measles,Sweden,2017,97
+Immunisation: Measles,Portugal,2017,98
+Immunisation: Measles,Spain,2017,98
+Immunisation: Measles,Israel,2017,98
+Immunisation: Measles,Russia,2017,98
+Immunisation: Measles,Luxembourg,2017,99
+Immunisation: Measles,China (People's Republic of),2017,99
+Immunisation: Measles,Hungary,2017,100
+Immunisation: Measles,Brazil,2018,84
+Immunisation: Measles,Estonia,2018,87
+Immunisation: Measles,Canada,2018,90
+Immunisation: Measles,France,2018,90
+Immunisation: Measles,Ireland,2018,92
+Immunisation: Measles,New Zealand,2018,92
+Immunisation: Measles,United Kingdom,2018,92
+Immunisation: Measles,United States,2018,92
+Immunisation: Measles,Lithuania,2018,92
+Immunisation: Measles,Iceland,2018,93
+Immunisation: Measles,Italy,2018,93
+Immunisation: Measles,Netherlands,2018,93
+Immunisation: Measles,Poland,2018,93
+Immunisation: Measles,Chile,2018,93
+Immunisation: Measles,Slovenia,2018,93
+Immunisation: Measles,Austria,2018,94
+Immunisation: Measles,Denmark,2018,94
+Immunisation: Measles,Costa Rica,2018,94
+Immunisation: Measles,Australia,2018,95
+Immunisation: Measles,Colombia,2018,95
+Immunisation: Measles,Belgium,2018,96
+Immunisation: Measles,Czech Republic,2018,96
+Immunisation: Measles,Finland,2018,96
+Immunisation: Measles,Norway,2018,96
+Immunisation: Measles,Slovak Republic,2018,96
+Immunisation: Measles,Switzerland,2018,96
+Immunisation: Measles,Turkey,2018,96
+Immunisation: Measles,Germany,2018,97
+Immunisation: Measles,Greece,2018,97
+Immunisation: Measles,Japan,2018,97
+Immunisation: Measles,Mexico,2018,97
+Immunisation: Measles,Spain,2018,97
+Immunisation: Measles,Sweden,2018,97
+Immunisation: Measles,Korea,2018,98
+Immunisation: Measles,Israel,2018,98
+Immunisation: Measles,Russia,2018,98
+Immunisation: Measles,Latvia,2018,98
+Immunisation: Measles,Luxembourg,2018,99
+Immunisation: Measles,Portugal,2018,99
+Immunisation: Measles,China (People's Republic of),2018,99
+Immunisation: Measles,Hungary,2018,100

@@ -1,0 +1,647 @@
+﻿Variable,Country,Year,Value
+% of total population,Australia,2001,100
+% of total population,Australia,2002,100
+% of total population,Australia,2003,100
+% of total population,Australia,2004,100
+% of total population,Australia,2005,100
+% of total population,Australia,2006,100
+% of total population,Australia,2007,100
+% of total population,Australia,2008,100
+% of total population,Australia,2009,100
+% of total population,Australia,2010,100
+% of total population,Australia,2011,100
+% of total population,Australia,2012,100
+% of total population,Australia,2013,100
+% of total population,Australia,2014,100
+% of total population,Australia,2015,100
+% of total population,Australia,2016,100
+% of total population,Australia,2017,100
+% of total population,Australia,2018,100
+% of total population,Australia,2019,100
+% of total population,Austria,2000,99
+% of total population,Austria,2001,99
+% of total population,Austria,2002,97
+% of total population,Austria,2003,98
+% of total population,Austria,2004,98
+% of total population,Austria,2005,98
+% of total population,Austria,2006,98.5
+% of total population,Austria,2007,98.7
+% of total population,Austria,2008,98.8
+% of total population,Austria,2009,99
+% of total population,Austria,2010,99.3
+% of total population,Austria,2011,99.9
+% of total population,Austria,2012,99.9
+% of total population,Austria,2013,99.9
+% of total population,Austria,2014,99.9
+% of total population,Austria,2015,99.9
+% of total population,Austria,2016,99.9
+% of total population,Austria,2017,99.9
+% of total population,Austria,2018,99.9
+% of total population,Belgium,2000,99
+% of total population,Belgium,2001,99
+% of total population,Belgium,2002,99
+% of total population,Belgium,2003,99
+% of total population,Belgium,2004,99
+% of total population,Belgium,2005,99
+% of total population,Belgium,2006,99
+% of total population,Belgium,2007,99
+% of total population,Belgium,2008,99
+% of total population,Belgium,2009,99
+% of total population,Belgium,2010,99
+% of total population,Belgium,2011,99
+% of total population,Belgium,2012,99
+% of total population,Belgium,2013,99
+% of total population,Belgium,2014,99
+% of total population,Belgium,2015,99
+% of total population,Belgium,2016,99
+% of total population,Belgium,2017,98.7
+% of total population,Belgium,2018,98.7
+% of total population,Canada,2000,100
+% of total population,Canada,2001,100
+% of total population,Canada,2002,100
+% of total population,Canada,2003,100
+% of total population,Canada,2004,100
+% of total population,Canada,2005,100
+% of total population,Canada,2006,100
+% of total population,Canada,2007,100
+% of total population,Canada,2008,100
+% of total population,Canada,2009,100
+% of total population,Canada,2010,100
+% of total population,Canada,2011,100
+% of total population,Canada,2012,100
+% of total population,Canada,2013,100
+% of total population,Canada,2014,100
+% of total population,Canada,2015,100
+% of total population,Canada,2016,100
+% of total population,Canada,2017,100
+% of total population,Canada,2018,100
+% of total population,Canada,2019,100
+% of total population,Czech Republic,2000,100
+% of total population,Czech Republic,2001,100
+% of total population,Czech Republic,2002,100
+% of total population,Czech Republic,2003,100
+% of total population,Czech Republic,2004,100
+% of total population,Czech Republic,2005,100
+% of total population,Czech Republic,2006,100
+% of total population,Czech Republic,2007,100
+% of total population,Czech Republic,2008,100
+% of total population,Czech Republic,2009,100
+% of total population,Czech Republic,2010,100
+% of total population,Czech Republic,2011,100
+% of total population,Czech Republic,2012,100
+% of total population,Czech Republic,2013,100
+% of total population,Czech Republic,2014,100
+% of total population,Czech Republic,2015,100
+% of total population,Czech Republic,2016,100
+% of total population,Czech Republic,2017,100
+% of total population,Czech Republic,2018,100
+% of total population,Denmark,2000,100
+% of total population,Denmark,2001,100
+% of total population,Denmark,2002,100
+% of total population,Denmark,2003,100
+% of total population,Denmark,2004,100
+% of total population,Denmark,2005,100
+% of total population,Denmark,2006,100
+% of total population,Denmark,2007,100
+% of total population,Denmark,2008,100
+% of total population,Denmark,2009,100
+% of total population,Denmark,2010,100
+% of total population,Denmark,2011,100
+% of total population,Denmark,2012,100
+% of total population,Denmark,2013,100
+% of total population,Denmark,2014,100
+% of total population,Denmark,2015,100
+% of total population,Denmark,2016,100
+% of total population,Denmark,2017,100
+% of total population,Denmark,2018,100
+% of total population,Denmark,2019,100
+% of total population,Finland,2000,100
+% of total population,Finland,2001,100
+% of total population,Finland,2002,100
+% of total population,Finland,2003,100
+% of total population,Finland,2004,100
+% of total population,Finland,2005,100
+% of total population,Finland,2006,100
+% of total population,Finland,2007,100
+% of total population,Finland,2008,100
+% of total population,Finland,2009,100
+% of total population,Finland,2010,100
+% of total population,Finland,2011,100
+% of total population,Finland,2012,100
+% of total population,Finland,2013,100
+% of total population,Finland,2014,100
+% of total population,Finland,2015,100
+% of total population,Finland,2016,100
+% of total population,Finland,2017,100
+% of total population,Finland,2018,100
+% of total population,Finland,2019,100
+% of total population,France,2000,99.9
+% of total population,France,2001,99.9
+% of total population,France,2002,99.9
+% of total population,France,2003,99.9
+% of total population,France,2004,99.9
+% of total population,France,2005,99.9
+% of total population,France,2006,99.9
+% of total population,France,2007,99.9
+% of total population,France,2008,99.9
+% of total population,France,2009,99.9
+% of total population,France,2010,99.9
+% of total population,France,2011,99.9
+% of total population,France,2012,99.9
+% of total population,France,2013,99.9
+% of total population,France,2014,99.9
+% of total population,France,2015,99.9
+% of total population,France,2016,99.9
+% of total population,France,2017,99.9
+% of total population,France,2018,99.9
+% of total population,France,2019,99.9
+% of total population,Germany,2000,90.6
+% of total population,Germany,2001,90.3
+% of total population,Germany,2002,90.1
+% of total population,Germany,2003,89.8
+% of total population,Germany,2004,89.6
+% of total population,Germany,2005,89.5
+% of total population,Germany,2006,89.3
+% of total population,Germany,2007,89.2
+% of total population,Germany,2008,89.3
+% of total population,Germany,2009,89
+% of total population,Germany,2010,88.9
+% of total population,Germany,2011,88.8
+% of total population,Germany,2012,88.8
+% of total population,Germany,2013,89
+% of total population,Germany,2014,89.1
+% of total population,Germany,2015,89.2
+% of total population,Germany,2016,89.3
+% of total population,Germany,2017,89.4
+% of total population,Germany,2018,89.4
+% of total population,Greece,2000,100
+% of total population,Greece,2001,100
+% of total population,Greece,2002,100
+% of total population,Greece,2003,100
+% of total population,Greece,2004,100
+% of total population,Greece,2005,100
+% of total population,Greece,2006,100
+% of total population,Greece,2007,100
+% of total population,Greece,2008,100
+% of total population,Greece,2015,86
+% of total population,Greece,2016,100
+% of total population,Greece,2017,100
+% of total population,Greece,2018,100
+% of total population,Hungary,2000,100
+% of total population,Hungary,2001,100
+% of total population,Hungary,2002,100
+% of total population,Hungary,2003,100
+% of total population,Hungary,2004,100
+% of total population,Hungary,2005,100
+% of total population,Hungary,2006,100
+% of total population,Hungary,2007,100
+% of total population,Hungary,2008,97
+% of total population,Hungary,2009,97
+% of total population,Hungary,2010,97
+% of total population,Hungary,2011,96
+% of total population,Hungary,2012,96
+% of total population,Hungary,2013,96
+% of total population,Hungary,2014,95
+% of total population,Hungary,2015,95
+% of total population,Hungary,2016,95
+% of total population,Hungary,2017,94
+% of total population,Hungary,2018,94
+% of total population,Iceland,2000,100
+% of total population,Iceland,2001,100
+% of total population,Iceland,2002,100
+% of total population,Iceland,2003,99.8
+% of total population,Iceland,2004,99.5
+% of total population,Iceland,2005,99.7
+% of total population,Iceland,2006,99.8
+% of total population,Iceland,2007,99.6
+% of total population,Iceland,2008,99.8
+% of total population,Iceland,2009,99.9
+% of total population,Iceland,2010,99.8
+% of total population,Iceland,2011,99.8
+% of total population,Iceland,2012,99.8
+% of total population,Iceland,2013,99.8
+% of total population,Iceland,2014,99.8
+% of total population,Iceland,2015,99.7
+% of total population,Iceland,2016,99.6
+% of total population,Iceland,2017,99.5
+% of total population,Iceland,2018,99.6
+% of total population,Iceland,2019,99.6
+% of total population,Ireland,2000,100
+% of total population,Ireland,2001,100
+% of total population,Ireland,2002,100
+% of total population,Ireland,2003,100
+% of total population,Ireland,2004,100
+% of total population,Ireland,2005,100
+% of total population,Ireland,2006,100
+% of total population,Ireland,2007,100
+% of total population,Ireland,2008,100
+% of total population,Ireland,2009,100
+% of total population,Ireland,2010,100
+% of total population,Ireland,2011,100
+% of total population,Ireland,2012,100
+% of total population,Ireland,2013,100
+% of total population,Ireland,2014,100
+% of total population,Ireland,2015,100
+% of total population,Ireland,2016,100
+% of total population,Ireland,2017,100
+% of total population,Ireland,2018,100
+% of total population,Ireland,2019,100
+% of total population,Italy,2000,100
+% of total population,Italy,2001,100
+% of total population,Italy,2002,100
+% of total population,Italy,2003,100
+% of total population,Italy,2004,100
+% of total population,Italy,2005,100
+% of total population,Italy,2006,100
+% of total population,Italy,2007,100
+% of total population,Italy,2008,100
+% of total population,Italy,2009,100
+% of total population,Italy,2010,100
+% of total population,Italy,2011,100
+% of total population,Italy,2012,100
+% of total population,Italy,2013,100
+% of total population,Italy,2014,100
+% of total population,Italy,2015,100
+% of total population,Italy,2016,100
+% of total population,Italy,2017,100
+% of total population,Italy,2018,100
+% of total population,Japan,2000,100
+% of total population,Japan,2001,100
+% of total population,Japan,2002,100
+% of total population,Japan,2003,100
+% of total population,Japan,2004,100
+% of total population,Japan,2005,100
+% of total population,Japan,2006,100
+% of total population,Japan,2007,100
+% of total population,Japan,2008,100
+% of total population,Japan,2009,100
+% of total population,Japan,2010,100
+% of total population,Japan,2011,100
+% of total population,Japan,2012,100
+% of total population,Japan,2013,100
+% of total population,Japan,2014,100
+% of total population,Japan,2015,100
+% of total population,Japan,2016,100
+% of total population,Japan,2017,100
+% of total population,Korea,2000,100
+% of total population,Korea,2001,100
+% of total population,Korea,2002,100
+% of total population,Korea,2003,100
+% of total population,Korea,2004,100
+% of total population,Korea,2005,100
+% of total population,Korea,2006,100
+% of total population,Korea,2007,100
+% of total population,Korea,2008,100
+% of total population,Korea,2009,100
+% of total population,Korea,2010,100
+% of total population,Korea,2011,100
+% of total population,Korea,2012,100
+% of total population,Korea,2013,100
+% of total population,Korea,2014,100
+% of total population,Korea,2015,100
+% of total population,Korea,2016,100
+% of total population,Korea,2017,100
+% of total population,Korea,2018,100
+% of total population,Mexico,2002,48.3
+% of total population,Mexico,2003,48.4
+% of total population,Mexico,2004,50.6
+% of total population,Mexico,2005,55.5
+% of total population,Mexico,2006,58.8
+% of total population,Mexico,2007,63.6
+% of total population,Mexico,2008,67.5
+% of total population,Mexico,2009,70.1
+% of total population,Mexico,2010,82.4
+% of total population,Mexico,2011,89.2
+% of total population,Mexico,2012,89.6
+% of total population,Mexico,2013,91.6
+% of total population,Mexico,2014,92.9
+% of total population,Mexico,2015,92.3
+% of total population,Mexico,2016,89.8
+% of total population,Mexico,2017,89.3
+% of total population,Mexico,2018,88.3
+% of total population,Netherlands,2000,64.5
+% of total population,Netherlands,2001,64.2
+% of total population,Netherlands,2002,63
+% of total population,Netherlands,2003,62.6
+% of total population,Netherlands,2004,62.5
+% of total population,Netherlands,2005,62.1
+% of total population,Netherlands,2006,99.5
+% of total population,Netherlands,2007,99.6
+% of total population,Netherlands,2008,99.6
+% of total population,Netherlands,2009,99.6
+% of total population,Netherlands,2010,99.6
+% of total population,Netherlands,2011,99.6
+% of total population,Netherlands,2012,99.7
+% of total population,Netherlands,2013,99.8
+% of total population,Netherlands,2014,99.8
+% of total population,Netherlands,2015,99.8
+% of total population,Netherlands,2016,99.9
+% of total population,Netherlands,2017,99.9
+% of total population,Netherlands,2018,99.9
+% of total population,New Zealand,2000,100
+% of total population,New Zealand,2001,100
+% of total population,New Zealand,2002,100
+% of total population,New Zealand,2003,100
+% of total population,New Zealand,2004,100
+% of total population,New Zealand,2005,100
+% of total population,New Zealand,2006,100
+% of total population,New Zealand,2007,100
+% of total population,New Zealand,2008,100
+% of total population,New Zealand,2009,100
+% of total population,New Zealand,2010,100
+% of total population,New Zealand,2011,100
+% of total population,New Zealand,2012,100
+% of total population,New Zealand,2013,100
+% of total population,New Zealand,2014,100
+% of total population,New Zealand,2015,100
+% of total population,New Zealand,2016,100
+% of total population,New Zealand,2017,100
+% of total population,New Zealand,2018,100
+% of total population,New Zealand,2019,100
+% of total population,Norway,2000,100
+% of total population,Norway,2001,100
+% of total population,Norway,2002,100
+% of total population,Norway,2003,100
+% of total population,Norway,2004,100
+% of total population,Norway,2005,100
+% of total population,Norway,2006,100
+% of total population,Norway,2007,100
+% of total population,Norway,2008,100
+% of total population,Norway,2009,100
+% of total population,Norway,2010,100
+% of total population,Norway,2011,100
+% of total population,Norway,2012,100
+% of total population,Norway,2013,100
+% of total population,Norway,2014,100
+% of total population,Norway,2015,100
+% of total population,Norway,2016,100
+% of total population,Norway,2017,100
+% of total population,Norway,2018,100
+% of total population,Norway,2019,100
+% of total population,Poland,2005,97.3
+% of total population,Poland,2006,99.3
+% of total population,Poland,2007,98.1
+% of total population,Poland,2008,97.8
+% of total population,Poland,2009,97.6
+% of total population,Poland,2010,97.5
+% of total population,Poland,2011,96.6
+% of total population,Poland,2012,91
+% of total population,Poland,2013,91.6
+% of total population,Poland,2014,91.3
+% of total population,Poland,2015,91
+% of total population,Poland,2016,91.5
+% of total population,Poland,2017,92.6
+% of total population,Poland,2018,92.9
+% of total population,Portugal,2000,100
+% of total population,Portugal,2001,100
+% of total population,Portugal,2002,100
+% of total population,Portugal,2003,100
+% of total population,Portugal,2004,100
+% of total population,Portugal,2005,100
+% of total population,Portugal,2006,100
+% of total population,Portugal,2007,100
+% of total population,Portugal,2008,100
+% of total population,Portugal,2009,100
+% of total population,Portugal,2010,100
+% of total population,Portugal,2011,100
+% of total population,Portugal,2012,100
+% of total population,Portugal,2013,100
+% of total population,Portugal,2014,100
+% of total population,Portugal,2015,100
+% of total population,Portugal,2016,100
+% of total population,Portugal,2017,100
+% of total population,Portugal,2018,100
+% of total population,Slovak Republic,2000,98.8
+% of total population,Slovak Republic,2001,97.9
+% of total population,Slovak Republic,2002,97.3
+% of total population,Slovak Republic,2003,96.9
+% of total population,Slovak Republic,2004,95.6
+% of total population,Slovak Republic,2005,97.6
+% of total population,Slovak Republic,2006,96.3
+% of total population,Slovak Republic,2007,95.5
+% of total population,Slovak Republic,2008,95.4
+% of total population,Slovak Republic,2009,95.2
+% of total population,Slovak Republic,2010,94.8
+% of total population,Slovak Republic,2011,95.2
+% of total population,Slovak Republic,2012,95
+% of total population,Slovak Republic,2013,94.6
+% of total population,Slovak Republic,2014,94.2
+% of total population,Slovak Republic,2015,93.8
+% of total population,Slovak Republic,2016,94.5
+% of total population,Slovak Republic,2017,94.6
+% of total population,Spain,2001,98.9
+% of total population,Spain,2003,99.5
+% of total population,Spain,2006,98.3
+% of total population,Spain,2011,99
+% of total population,Spain,2014,99.1
+% of total population,Spain,2017,99
+% of total population,Spain,2018,100
+% of total population,Spain,2019,100
+% of total population,Sweden,2000,100
+% of total population,Sweden,2001,100
+% of total population,Sweden,2002,100
+% of total population,Sweden,2003,100
+% of total population,Sweden,2004,100
+% of total population,Sweden,2005,100
+% of total population,Sweden,2006,100
+% of total population,Sweden,2007,100
+% of total population,Sweden,2008,100
+% of total population,Sweden,2009,100
+% of total population,Sweden,2010,100
+% of total population,Sweden,2011,100
+% of total population,Sweden,2012,100
+% of total population,Sweden,2013,100
+% of total population,Sweden,2014,100
+% of total population,Sweden,2015,100
+% of total population,Sweden,2016,100
+% of total population,Sweden,2017,100
+% of total population,Sweden,2018,100
+% of total population,Switzerland,2000,100
+% of total population,Switzerland,2001,100
+% of total population,Switzerland,2002,100
+% of total population,Switzerland,2003,100
+% of total population,Switzerland,2004,100
+% of total population,Switzerland,2005,100
+% of total population,Switzerland,2006,100
+% of total population,Switzerland,2007,100
+% of total population,Switzerland,2008,100
+% of total population,Switzerland,2009,100
+% of total population,Switzerland,2010,100
+% of total population,Switzerland,2011,100
+% of total population,Switzerland,2012,100
+% of total population,Switzerland,2013,100
+% of total population,Switzerland,2014,100
+% of total population,Switzerland,2015,100
+% of total population,Switzerland,2016,100
+% of total population,Switzerland,2017,100
+% of total population,Switzerland,2018,100
+% of total population,Turkey,2002,69.8
+% of total population,Turkey,2003,71.6
+% of total population,Turkey,2004,83.8
+% of total population,Turkey,2005,86.6
+% of total population,Turkey,2006,90.3
+% of total population,Turkey,2007,93.2
+% of total population,Turkey,2008,93.2
+% of total population,Turkey,2009,94
+% of total population,Turkey,2010,96.2
+% of total population,Turkey,2011,97.6
+% of total population,Turkey,2012,98.2
+% of total population,Turkey,2013,98
+% of total population,Turkey,2014,98.4
+% of total population,Turkey,2015,98.4
+% of total population,Turkey,2016,98.2
+% of total population,Turkey,2017,99.2
+% of total population,Turkey,2018,98.5
+% of total population,United Kingdom,2000,100
+% of total population,United Kingdom,2001,100
+% of total population,United Kingdom,2002,100
+% of total population,United Kingdom,2003,100
+% of total population,United Kingdom,2004,100
+% of total population,United Kingdom,2005,100
+% of total population,United Kingdom,2006,100
+% of total population,United Kingdom,2007,100
+% of total population,United Kingdom,2008,100
+% of total population,United Kingdom,2009,100
+% of total population,United Kingdom,2010,100
+% of total population,United Kingdom,2011,100
+% of total population,United Kingdom,2012,100
+% of total population,United Kingdom,2013,100
+% of total population,United Kingdom,2014,100
+% of total population,United Kingdom,2015,100
+% of total population,United Kingdom,2016,100
+% of total population,United Kingdom,2017,100
+% of total population,United Kingdom,2018,100
+% of total population,United States,2000,22.5
+% of total population,United States,2001,23.1
+% of total population,United States,2002,24.1
+% of total population,United States,2003,25.2
+% of total population,United States,2004,25.4
+% of total population,United States,2005,26.2
+% of total population,United States,2006,27.4
+% of total population,United States,2007,27.4
+% of total population,United States,2008,28.5
+% of total population,United States,2009,26.4
+% of total population,United States,2010,30.8
+% of total population,United States,2011,31.8
+% of total population,United States,2012,32.6
+% of total population,United States,2013,33
+% of total population,United States,2014,34.5
+% of total population,United States,2015,35.6
+% of total population,United States,2016,36.3
+% of total population,United States,2017,35.9
+% of total population,United States,2018,34
+% of total population,Chile,2000,65.6
+% of total population,Chile,2001,64.9
+% of total population,Chile,2002,65.6
+% of total population,Chile,2003,66.5
+% of total population,Chile,2004,67.8
+% of total population,Chile,2005,68.4
+% of total population,Chile,2006,69.9
+% of total population,Chile,2007,70.7
+% of total population,Chile,2008,73
+% of total population,Chile,2009,73.7
+% of total population,Chile,2010,74.2
+% of total population,Chile,2011,76.1
+% of total population,Chile,2012,76.3
+% of total population,Chile,2013,75.9
+% of total population,Chile,2014,75.2
+% of total population,Chile,2015,73.2
+% of total population,Chile,2016,74.4
+% of total population,Chile,2017,75.6
+% of total population,Chile,2018,76
+% of total population,Chile,2019,77.7
+% of total population,Estonia,2004,93.6
+% of total population,Estonia,2005,94.1
+% of total population,Estonia,2006,95.2
+% of total population,Estonia,2007,96.2
+% of total population,Estonia,2008,96
+% of total population,Estonia,2009,95.7
+% of total population,Estonia,2010,94.5
+% of total population,Estonia,2011,94
+% of total population,Estonia,2012,93.7
+% of total population,Estonia,2013,93.6
+% of total population,Estonia,2014,93.9
+% of total population,Estonia,2015,94
+% of total population,Estonia,2016,94
+% of total population,Estonia,2017,94.1
+% of total population,Estonia,2018,94.5
+% of total population,Estonia,2019,95
+% of total population,Israel,2000,100
+% of total population,Israel,2001,100
+% of total population,Israel,2002,100
+% of total population,Israel,2003,100
+% of total population,Israel,2004,100
+% of total population,Israel,2005,100
+% of total population,Israel,2006,100
+% of total population,Israel,2007,100
+% of total population,Israel,2008,100
+% of total population,Israel,2009,100
+% of total population,Israel,2010,100
+% of total population,Israel,2011,100
+% of total population,Israel,2012,100
+% of total population,Israel,2013,100
+% of total population,Israel,2014,100
+% of total population,Israel,2015,100
+% of total population,Israel,2016,100
+% of total population,Israel,2017,100
+% of total population,Israel,2018,100
+% of total population,Israel,2019,100
+% of total population,Slovenia,2000,98
+% of total population,Slovenia,2001,98
+% of total population,Slovenia,2002,98
+% of total population,Slovenia,2003,99
+% of total population,Slovenia,2004,99
+% of total population,Slovenia,2005,99
+% of total population,Slovenia,2006,99
+% of total population,Slovenia,2007,99
+% of total population,Slovenia,2008,100
+% of total population,Slovenia,2009,100
+% of total population,Slovenia,2010,100
+% of total population,Slovenia,2011,100
+% of total population,Slovenia,2012,100
+% of total population,Slovenia,2013,100
+% of total population,Slovenia,2014,100
+% of total population,Slovenia,2015,100
+% of total population,Slovenia,2016,100
+% of total population,Slovenia,2017,100
+% of total population,Slovenia,2018,100
+% of total population,Russia,2010,98.9
+% of total population,Russia,2012,99.8
+% of total population,Russia,2013,99.2
+% of total population,Russia,2014,99.9
+% of total population,Russia,2015,100
+% of total population,Russia,2016,100
+% of total population,Russia,2017,99.7
+% of total population,Russia,2018,99.6
+% of total population,Russia,2019,99.1
+% of total population,Colombia,2000,55.6
+% of total population,Colombia,2001,59.1
+% of total population,Colombia,2002,64
+% of total population,Colombia,2003,65.1
+% of total population,Colombia,2004,73.7
+% of total population,Colombia,2005,82.6
+% of total population,Colombia,2006,86.6
+% of total population,Colombia,2007,90.5
+% of total population,Colombia,2008,90.3
+% of total population,Colombia,2009,91
+% of total population,Colombia,2010,93.6
+% of total population,Colombia,2011,96.4
+% of total population,Colombia,2012,96.4
+% of total population,Colombia,2013,96
+% of total population,Colombia,2014,96.6
+% of total population,Colombia,2015,97.6
+% of total population,Colombia,2016,95.7
+% of total population,Colombia,2017,94.9
+% of total population,Colombia,2018,94.7
+% of total population,Lithuania,2010,90.9
+% of total population,Lithuania,2011,91.4
+% of total population,Lithuania,2012,91.9
+% of total population,Lithuania,2013,91.8
+% of total population,Lithuania,2014,92
+% of total population,Lithuania,2015,92.4
+% of total population,Lithuania,2016,92.5
+% of total population,Lithuania,2017,93.9
+% of total population,Lithuania,2018,98.1
+% of total population,Lithuania,2019,98.7
+% of total population,Latvia,2017,100
+% of total population,Latvia,2018,100

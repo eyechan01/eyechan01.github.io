@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Health and Policy in Global Health</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="bkgtop" style="color: white">
+        <br><br>
+        <h1 id="title"></h1>
+        <h6 id="desc"></h6>
+        <br><br><br>
+        <div id="button"></div>
+    </div>
+    <div class="container-fluid" id="content">
+         <div class="section">
+             <br><br>
+             <img src="img/world_population.png" style="height: 30vh">
+             <div id="intro1" class="intro_text" style="padding-bottom: 40vh">
+                 <p id="intro1_words1"></p>
+                 <p id="intro1_words2"></p>
+                 <div id="button1"></div>
+             </div>
+             <div id="mapVisual"><br>
+                 <h2>Global Health Overview<br></h2>
+                 Select a health condition below to see how many deaths per 100,000 people it is responsible for in each country.
+                 <br><br>
+                 <div class = "user-tip" style="font-size: 12px; width: 85%">TIP: You can also choose to look at Disability-Adjusted Life Years (DALYs), which is a measure of how many years lived with disability each condition contributes per 100,000 people. This often better reflects the disease burden than simple death counts. Drag the globe to see the other side of the world.</div>
+                 <br>
+                 <div class = "row justify-content-center" style="width: 100%">
+                     <div class="col-xl-5 justify-content-center" style = "width: 100%">
+                         <select id='diseaseSelector' class="custom-select align-self-center" style="width: 55%" onchange="diseaseChange()">
+                             <option value="Cardiovascular diseases" selected>Cardiovascular Disease</option>
+                             <option value="HIV/AIDS and sexually transmitted infections">HIV/AIDS</option>
+                             <option value="Mental disorders">Mental Disorders</option>
+                             <option value="Respiratory infections and tuberculosis">Respiratory Infections</option>
+                         </select>
+                         <input type="checkbox" id="deathsDALY" name="deathsDALY" value="DALY" onchange="diseaseChange()">
+                         <label for="deathsDALY">Show DALYs </label><br>
+                         <div id="mapVis"></div>
+                     </div>
+                     <div class="col-xl-5 justify-content-center" style = "width: 100%">
+                         <br/>
+                         <div id="spiderChart"></div>
+                     </div>
+                 </div>
+                 <section id="section05" class="demo"><a href="#section2">
+                     <span></span></a>
+                 </section>
+                 <br/>
+             </div>
+            <br>
+         </div>
+
+
+        <div class="section" id="section2">
+            <div class="row ">
+                <div class="col-md-12">
+                    <h2>Policy and Health</h2>
+                    <h5>How is government health spending related to global health outcomes?</h5>
+                    <br><br>
+                    <img src="img/un.png" style="height: 35vh">
+                    <div id="intro2" class="intro_text">
+                        <p id="intro2_words1"></p>
+                        <p id="intro2_words2"></p>
+                        <div id="button2"></div>
+                    </div>
+                    <div id="coordVisual">
+                        <br/>
+                        <b style="font-weight: bold">Choose a health metric below and see how it correlates with measures of health spending.</b>
+                        <br/><br/>
+                        <form action="" method="post" id = 'outcome-select'>
+                            <input class ="selector" type="radio" name="outcome" value="lifeExpData" checked /> Life expectancy
+                            &emsp;&emsp; <input class = "selector" type="radio" name="outcome" value="mortData" /> Child mortality
+                            &emsp;&emsp;<input class = "selector" type="radio" name="outcome" value="tbData" /> Tuberculosis prevalence
+                            &emsp;&emsp; <input class = "selector" type="radio" name="outcome" value="hivData" /> HIV prevalence
+                        </form>
+                        <div id="coordVis" style="height:60vh"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <br>
+                <div class="col-md-12">
+                    <p id="time-range">1995 - 2007</p>
+                    <div class = "user-tip" style="font-size: 12px; width: 85%">TIP: Brush the axes to highlight specific value ranges. </div>
+
+                </div>
+            </div>
+            <div class="row justify-content-center" style="width: 100%">
+                <div class="col-md-8 justify-content-center" style="width: 100%">
+                    <div id="timeSlider" style="width: 150%"></div>
+                </div>
+                <section id="section05" class="demo"><a href="#section2_2">
+                    <br/>
+                    <br/>
+                    <br/>
+                    <span></span></a>
+                </section>
+            </div>
+
+            <br/>
+            <div class="row" id="section2_2">
+                <div class="col-md-12">
+                    <br>
+                    <h4>Treatment Policies</h4>
+                    <br/>
+                    <h5>HIV Treatment Around the World</h5>
+                    <div class = "row">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-4 justify-content-center" style = "margin-top: 80px">
+                            <p>
+                                It is approximated that 38 million people across the world are living with HIV, the virus that
+                                causes AIDS. The first cases were reported in 1981 and about 76 million people have become
+                                infected since then. One of the Sustainable Development Goals set out by the United Nations is
+                                to end the AIDS epidemic by 2030.
+                            </p>
+                            <br>
+                            <p>
+                                While there is no effective cure for HIV, antiretroviral therapy (ART) suppresses the virus and
+                                reduces both the progression of the disease and onward transmission, which has led to a decrease
+                                in both death and infection rates.
+                            </p>
+                        </div>
+                        <div class="col-md-6 justify-content-center">
+                            <div id="scatterVisOne"></div>
+                            <br>
+                            <br>
+                            <div id="sliderRoslingOne" style="width: 80%;margin-left: 100px"></div>
+                        </div>
+                    </div>
+                    <h5>Tuberculosis Treatment Around the World</h5>
+                    <div class = "row">
+                        <div class="col-md-6 justify-content-center">
+                            <div id="scatterVisTwo"></div>
+                            <br>
+                            <br>
+                            <div id="sliderRoslingTwo"></div>
+                        </div>
+                        <div class="col-md-4 justify-content-center" style="margin-top: 80px;margin-left: 10vh">
+                            <p>
+                                Around 10 million people get tuberculosis every year and more than 4 million of them are not
+                                diagnosed and treated. We have in fact had a cure for tuberculosis since 1948, yet the disease is
+                                responsible for 2 million deaths annually and is now the biggest infectious killer of adults
+                                worldwide. In 1993, the World Health Organization started promoting a treatment policy called
+                                DOTS, which was branded as very cost-effective.
+                            </p>
+                            <br>
+                            <p>
+                                While DOTS reduced the number of tuberculosis cases in sub-Saharan countries, it never
+                                eliminated the disease. This was largely due to it being a policy solely focused on treatment and
+                                not prevention, which was considered “too expensive” in poor countries.
+                            </p>
+                        </div>
+                        <div class="col-md-1"></div>
+                    </div>
+                </div>
+            </div>
+            <section id="section05" class="demo" style="transform: translate(0, -100px)"><a href="#section3">
+                <span></span></a>
+            </section>
+            <br/><br/>
+
+        </div>
+
+        <div class="section" id="section3" style="height: 100vh">
+            <h2>Infectious Disease Policy Today</h2>
+            <br>
+            <div id="intro3" class="intro_text">
+                <p id="intro3_words1"></p>
+                <p id="intro3_words2"></p>
+                <img src="img/covid.png" style="height: 30vh">
+                <div id="button3"></div>
+            </div>
+        </div>
+
+        <div class = "section" id="covidVisual1">
+            <br/>
+            <h2>COVID</h2>
+            <p style="font-size: 14px">OECD (Organisation for Economic Co-operation and Development) Countries in 2018</p>
+            <div class="row">
+                <div class="col-md-3" style="padding-right: 0">
+                    <br>
+                    <h4>Health</h4>
+                    <hr>
+                    <p>% GDP Expenditure on Health: <span id="healthExpValue"></span></p>
+                    <div class="slidecontainer">
+                        <input type="range" min="0" max="20" value="10" class="slider" id="healthExp">
+                    </div>
+                    <br>
+                    <p>% Population with Government Insurance: <span id="govInsValue"></span></p>
+                    <div class="slidecontainer">
+                        <input type="range" min="30" max="100" value="85" class="slider" id="govIns">
+                    </div>
+                    <!-- deleted filter
+                    <br>
+                    <p>% Children Immunized Against Measles: <span id="immuValue"></span></p>
+                    <div class="slidecontainer">
+                        <input type="range" min="80" max="100" value="95" class="slider" id="immu">
+                    </div>
+                    -->
+                    <br>
+                    <p>Number of Hospitals per 1000 Population: <span id="hospValue"></span></p>
+                    <div class="slidecontainer">
+                        <input type="range" min="5" max="70" value="38" class="slider" id="hosp">
+                    </div>
+                    <br>
+                    <p>Health and Social Employment per 1000 Population: <span id="emplValue"></span></p>
+                    <div class="slidecontainer">
+                        <input type="range" min="5" max="110" value="58" class="slider" id="empl">
+                    </div>
+                    <br>
+                </div>
+                <div class="col-md-5" style="padding-left: 0">
+                    <br>
+                    <div id="country-health"></div>
+                    <br>
+                </div>
+                <div class="col-md-4" style="padding-left: 1em">
+                    <br>
+                    <div id="country-data"></div>
+                    <br>
+                </div>
+            </div>
+            <section id="section05" class="demo"><a href="#section3-2">
+                <span></span></a>
+            </section>
+            <br/><br/><br/><br/><br/><br/>
+            <div class="row" id="section3-2">
+                <div class="col-md-3" style="padding-right: 0">
+                    <br/><br/>
+                    <h4>Government Policies</h4>
+                    <hr>
+                    <p>Select two countries to compare.</p>
+                    <p>Select a Region</p>
+                    <table style="width: 100%; align-content: center">
+                        <tr style="background-color: transparent">
+                            <td>
+                                <button type="button" class="btn btn-primary" onclick=asia()>Asia</button>
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-primary" onclick=europe()>Europe</button>
+                            </td>
+                        </tr>
+                        <tr style="background-color: transparent">
+                            <td>
+                                <button type="button" class="btn btn-primary" onclick=oceania()>Oceania</button>
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-primary" onclick=americas()>Americas</button>
+                            </td>
+                        </tr>
+                    </table>
+                    <br/>
+                    <div style="width: 100%; align-content: center" id="country_select"></div>
+                </div>
+                <div class="col-md-5" style="padding-left: 0">
+                    <br/>
+                    <div id="country-gov"></div>
+                    <br/>
+                    <div style="padding-left: 2rem">
+                        <p id="gov-tooltip" style="font-size: 12px">Hover over a dot to see the particular policy.</p>
+                    </div>
+                </div>
+                <div class="col-md-4" style="padding-left: 0">
+                    <br/>
+                    <br/>
+                    <div id="country-gov-bar" style="height: 80vh"></div>
+                </div>
+            </div>
+            <section id="section05" class="demo"><a href="#section4">
+                <span></span></a>
+            </section>
+            <br/>
+            <br/>
+        </div>
+
+        <div class="section" id="section4" style="height: 100vh">
+            <h2> Conclusions </h2>
+            <br>
+            <div class="row ">
+                <div class="col-md-12">
+                    <img src="img/covid_workers.jpg" style="height: 40vh;">
+                    <br/>
+                    <div id="text4" class="intro_text">
+                        <p id="text4_words1"></p>
+                        <p id="text4_words2"></p>
+                        <div id="button4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bkgtop" id="team" style="padding: 5vh; height: 100vh">
+        <br/>
+        <h3>The Team</h3>
+        <br/>
+        <hr style="border-color: white">
+        <br/><br/>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <img class="team" src="img/alma.jpeg">
+                    <br/><br/>
+                    <h5>Alma Fredriksson</h5>
+                    <i>Harvard T.H. Chan School of Public Health</i>
+                </div>
+                <div class="col-sm">
+                    <img class="team" src="img/ethan.png">
+                    <br/><br/>
+                    <h5>Ethan Lee</h5>
+                    <i>Harvard College, Sophomore</i>
+                </div>
+                <div class="col-sm">
+                    <img class="team" src="img/phyllis.jpg" style="filter: brightness(80%);">                    <br/><br/>
+                    <h5>Phyllis Zhang</h5>
+                    <i>Harvard College, Sophomore</i>
+                </div>
+            </div>
+        </div>
+        <br/>
+    </div>
+
+    <script>
+        // Outcome Selector Response
+        let outcomeSelect = document.getElementById("outcome-select");
+
+        outcomeSelect.oninput = function() {
+            selectionChange();
+        }
+
+        // Range Slider Response – Health Expenditures
+        let govIns = document.getElementById("govIns");
+        let govInsValue = document.getElementById("govInsValue");
+        govInsValue.innerHTML = govIns.value + "%"; // Display the default slider value
+
+        govIns.oninput = function() {
+            govInsValue.innerHTML = this.value + "%";
+            countryhealthChange();
+        }
+
+        // Range Slider Response – Gov't Insurance
+        let healthExp = document.getElementById("healthExp");
+        let healthExpValue = document.getElementById("healthExpValue");
+        healthExpValue.innerHTML = healthExp.value + "%"; // Display the default slider value
+
+        healthExp.oninput = function() {
+            healthExpValue.innerHTML = this.value + "%";
+            countryhealthChange();
+        }
+
+        // Range Slider Response – Immunization
+        //let immu = document.getElementById("immu");
+        //let immuValue = document.getElementById("immuValue");
+        //immuValue.innerHTML = immu.value + "%"; // Display the default slider value
+
+        //immu.oninput = function() {
+        //    immuValue.innerHTML = this.value + "%";
+        //    countryhealthChange();
+        //}
+
+        // Range Slider Response – Hospitals
+        let hosp = document.getElementById("hosp");
+        let hospValue = document.getElementById("hospValue");
+        hospValue.innerHTML = hosp.value; // Display the default slider value
+
+        hosp.oninput = function() {
+            hospValue.innerHTML = this.value;
+            countryhealthChange();
+        }
+
+        // Range Slider Response – Health & Social Employment
+        let empl = document.getElementById("empl");
+        let emplValue = document.getElementById("emplValue");
+        emplValue.innerHTML = empl.value; // Display the default slider value
+
+        empl.oninput = function() {
+            emplValue.innerHTML = this.value;
+            countryhealthChange();
+        }
+
+    </script>
+
+    <script>
+        //typed words
+
+        let title = "Visualizing Global Health Policy";
+        let desc = "An examination of health infrastructure, government policies, and how they affect global health amidst pandemics.";
+        let header = [title, desc];
+        let ids = ["title", "desc"];
+        let speed = 50;
+        let i = 0;
+        let j = 0;
+        let button_parent = "button";
+        let id_parent = "content";
+        typeWriter1();
+
+        function checkVisible( elm, eval ) {
+            eval = eval || "object visible";
+            let viewportHeight = $(window).height(), // Viewport Height
+                scrolltop = $(window).scrollTop(), // Scroll Top
+                y = $(elm).offset().top,
+                elementHeight = $(elm).height();
+
+            if (eval == "object visible") return ((y < (viewportHeight + scrolltop)) && (y > (scrolltop - elementHeight)));
+            if (eval == "above") return ((y < (viewportHeight + scrolltop)));
+        }
+        $(window).on('scroll',function() {
+            if (checkVisible($('#intro1')) && document.getElementById("intro1_words1").innerHTML == "") {
+                // first set of words
+                let words1 = "We are approaching 8 billion people living in the world.";
+                let words2 = "While our lives are generally longer and healthier than ever before, we are still battling major health challenges across the globe, such as cardiovascular disease, malnutrition, tuberculosis, malaria and, more recently, COVID-19.";
+                header = [words1, words2];
+                ids = ["intro1_words1", "intro1_words2"];
+                speed = 50;
+                i = 0;
+                j = 0;
+                button_parent = "button1";
+                id_parent = "mapVisual";
+                typeWriter1();
+            }
+            if (checkVisible($('#intro2')) && document.getElementById("intro2_words1").innerHTML == "") {
+                //second set of words
+                let words1 = "Decisions that translate evidence and political will into authoritative public agreement and interventions play a crucial role on the global health scene. ";
+                let words2 = "The structure of global and national health systems is continuously shaped through health policy, including decisions on how public health services are funded. These can in turn have great impact on the prevalence and incidence of disease.  ";
+                header = [words1, words2];
+                ids = ["intro2_words1", "intro2_words2"];
+                speed = 50;
+                i = 0;
+                j = 0;
+                button_parent = "button2";
+                id_parent = "coordVisual";
+                typeWriter1();
+            }
+            if (checkVisible($('#intro3')) && document.getElementById("intro3_words1").innerHTML == "") {
+                //second set of words
+                let words1 = "Health spending and government policies have clearly played a crucial role in global health throughout the past decades. We proceed by looking at the health policy of today, in the midst of the COVID-19 pandemic.";
+                let words2 = "How robust have different types of health systems been? Which policies successfully reduced the spread? ";
+                header = [words1, words2];
+                ids = ["intro3_words1", "intro3_words2"];
+                speed = 50;
+                i = 0;
+                j = 0;
+                button_parent = "button3";
+                id_parent = "covidVisual1";
+                typeWriter1();
+            }
+            if (checkVisible($('#text4')) && document.getElementById("text4_words1").innerHTML == "") {
+                //second set of words
+                let words1 = "Most effective infectious disease policies combine measures of search, treatment and prevention, but also share the common trait of being tailored to the local context. ";
+                let words2 = "Successfully tackling disease globally requires carefully designed interventions, international cooperation and responsible health policy.";
+                header = [words1, words2];
+                ids = ["text4_words1", "text4_words2"];
+                speed = 50;
+                i = 0;
+                j = 0;
+                button_parent = "button4";
+                id_parent = "team";
+                typeWriter1();
+            }
+
+        });
+
+        function typeWriter1() {
+            if (i < header.length) {
+                document.getElementById(ids[i]).innerHTML += header[i].charAt(j);
+                j++;
+                setTimeout(typeWriter1, speed);
+                if (j >= header[i].length) {
+                    i += 1;
+                    j = 0;
+                }
+            }
+            if (i >= header.length) {
+                document.getElementById(button_parent).innerHTML = "        <section id=\"section05\" class=\"demo\">\n" +
+                    "            <a href=\"#"+id_parent+"\"><span></span></a>\n" +
+                    "        </section>";
+            }
+        };
+
+        $(function() {
+            $('a[href*=#]').on('click', function(e) {
+                e.preventDefault();
+                $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+            });
+        });
+
+
+        function asia(){
+            document.getElementById("country_select").innerHTML =
+                "<p>Select a Country</p>\n" +
+                "<table style=\"width: 100%; align-content: center\">\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Israel\")'>Israel</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Japan\")'>Japan</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Korea\")'>Korea</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Turkey\")'>Turkey</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "</table>";
+        }
+
+        function americas(){
+            document.getElementById("country_select").innerHTML =
+                "<p>Select a Country</p>\n" +
+                "<table style=\"width: 100%; align-content: center\">\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Brazil\")'>Brazil</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Canada\")'>Canada</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Chile\")'>Chile</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Colombia\")'>Colombia</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Costa Rica\")'>Costa Rica</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Mexico\")'>Mexico</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"United States\")'>United States</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "</table>";
+        }
+
+        function europe(){
+            document.getElementById("country_select").innerHTML =
+                "<p>Select a Country</p>\n" +
+                "<table style=\"width: 100%; align-content: center; \"; >\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Austria\")'>Austria</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Belgium\")'>Belgium</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Estonia\")'>Estonia</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Denmark\")'>Denmark</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Finland\")'>Finland</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"France\")'>France</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Germany\")'>Germany</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Greece\")'>Greece</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Hungary\")'>Hungary</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Iceland\")'>Iceland</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Ireland\")'>Ireland</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Italy\")'>Italy</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Luxembourg\")'>Luxembourg</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Netherlands\")'>Netherlands</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Norway\")'>Norway</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Poland\")'>Poland</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Portugal\")'>Portugal</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Latvia\")'>Latvia</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Spain\")'>Spain</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Sweden\")'>Sweden</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Switzerland\")'>Switzerland</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Lithuania\")'>Lithuania</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Russia\")'>Russia</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Slovenia\")'>Slovenia</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"United Kingdom\")'>United Kingdom</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Slovak Republic\")'>Slovak Republic</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Czech Republic\")'>Czech Republic</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "</table>";
+        }
+
+        function oceania(){
+            document.getElementById("country_select").innerHTML =
+                "<p>Select a Country</p>\n" +
+                "<table style=\"width: 100%; align-content: center\">\n" +
+                "<tr style=\"background-color: transparent\">\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"Australia\")'>Australia</button>\n" +
+                "</td>\n" +
+                "<td>\n" +
+                "<button type=\"button\" class=\"btn btn-light\" onclick='change(\"New Zealand\")'>New Zealand</button>\n" +
+                "</td>\n" +
+                "</tr>\n" +
+                "</table>";
+        }
+
+        function change(country){
+            countrygovChange(country);
+        }
+
+    </script>
+
+    <!-- embedding JS libraries -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+    <!-- d3 -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+
+    <!-- own js files -->
+    <script src="js/scatterVis.js"></script>
+    <script src="js/countryhealthVis.js"></script>
+    <script src="js/mapVis.js"></script>
+    <script src="js/spiderChart.js"></script>
+    <script src="js/timeline.js"></script>
+    <script src="js/coordinateVis.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/countrygovVis.js"></script>
+    <script src="js/countryGovBarVis.js"></script>
+
+</body>
+</html>
