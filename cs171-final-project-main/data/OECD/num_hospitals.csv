@@ -1,0 +1,620 @@
+﻿Type,Measurement,Country,Year,Value
+Hospitals,Per million population,Australia,2000,66.48
+Hospitals,Per million population,Australia,2001,66.56
+Hospitals,Per million population,Australia,2002,65.86
+Hospitals,Per million population,Australia,2003,65.21
+Hospitals,Per million population,Australia,2004,64.77
+Hospitals,Per million population,Australia,2005,64.53
+Hospitals,Per million population,Australia,2006,64.3
+Hospitals,Per million population,Australia,2007,63.09
+Hospitals,Per million population,Australia,2008,62.12
+Hospitals,Per million population,Australia,2009,61.5
+Hospitals,Per million population,Australia,2010,61.05
+Hospitals,Per million population,Australia,2011,60.21
+Hospitals,Per million population,Australia,2012,59.25
+Hospitals,Per million population,Australia,2013,58.76
+Hospitals,Per million population,Australia,2014,56.31
+Hospitals,Per million population,Australia,2015,55.89
+Hospitals,Per million population,Australia,2016,55.93
+Hospitals,Per million population,Australia,2017,53.94
+Hospitals,Per million population,Austria,2000,33.58
+Hospitals,Per million population,Austria,2001,32.83
+Hospitals,Per million population,Austria,2002,33.04
+Hospitals,Per million population,Austria,2003,32.14
+Hospitals,Per million population,Austria,2004,32.18
+Hospitals,Per million population,Austria,2005,32.09
+Hospitals,Per million population,Austria,2006,31.81
+Hospitals,Per million population,Austria,2007,32.43
+Hospitals,Per million population,Austria,2008,31.97
+Hospitals,Per million population,Austria,2009,31.88
+Hospitals,Per million population,Austria,2010,31.92
+Hospitals,Per million population,Austria,2011,32.41
+Hospitals,Per million population,Austria,2012,32.86
+Hospitals,Per million population,Austria,2013,32.78
+Hospitals,Per million population,Austria,2014,32.65
+Hospitals,Per million population,Austria,2015,32.17
+Hospitals,Per million population,Austria,2016,31.25
+Hospitals,Per million population,Austria,2017,30.8
+Hospitals,Per million population,Austria,2018,29.86
+Hospitals,Per million population,Belgium,2000,21.95
+Hospitals,Per million population,Belgium,2001,21.48
+Hospitals,Per million population,Belgium,2002,21.1
+Hospitals,Per million population,Belgium,2003,20.82
+Hospitals,Per million population,Belgium,2004,20.54
+Hospitals,Per million population,Belgium,2005,20.42
+Hospitals,Per million population,Belgium,2006,20
+Hospitals,Per million population,Belgium,2007,19.58
+Hospitals,Per million population,Belgium,2008,19.14
+Hospitals,Per million population,Belgium,2009,18.52
+Hospitals,Per million population,Belgium,2010,17.9
+Hospitals,Per million population,Belgium,2011,17.67
+Hospitals,Per million population,Belgium,2012,17.47
+Hospitals,Per million population,Belgium,2013,17.03
+Hospitals,Per million population,Belgium,2014,16.06
+Hospitals,Per million population,Belgium,2015,15.88
+Hospitals,Per million population,Belgium,2016,15.62
+Hospitals,Per million population,Belgium,2017,15.38
+Hospitals,Per million population,Belgium,2018,15.23
+Hospitals,Per million population,Belgium,2019,14.32
+Hospitals,Per million population,Canada,2000,25.65
+Hospitals,Per million population,Canada,2001,24.63
+Hospitals,Per million population,Canada,2002,24.46
+Hospitals,Per million population,Canada,2003,23.89
+Hospitals,Per million population,Canada,2004,22.98
+Hospitals,Per million population,Canada,2005,22.86
+Hospitals,Per million population,Canada,2006,22.47
+Hospitals,Per million population,Canada,2007,22.2
+Hospitals,Per million population,Canada,2008,21.78
+Hospitals,Per million population,Canada,2009,21.53
+Hospitals,Per million population,Canada,2010,21.29
+Hospitals,Per million population,Canada,2011,21.11
+Hospitals,Per million population,Canada,2012,20.74
+Hospitals,Per million population,Canada,2013,20.58
+Hospitals,Per million population,Canada,2014,20.32
+Hospitals,Per million population,Canada,2015,20.14
+Hospitals,Per million population,Canada,2016,19.99
+Hospitals,Per million population,Canada,2017,19.76
+Hospitals,Per million population,Canada,2018,19.29
+Hospitals,Per million population,Czech Republic,2005,25.66
+Hospitals,Per million population,Czech Republic,2006,25.1
+Hospitals,Per million population,Czech Republic,2007,24.76
+Hospitals,Per million population,Czech Republic,2008,24.46
+Hospitals,Per million population,Czech Republic,2009,24.51
+Hospitals,Per million population,Czech Republic,2010,24.35
+Hospitals,Per million population,Czech Republic,2011,24.29
+Hospitals,Per million population,Czech Republic,2012,23.98
+Hospitals,Per million population,Czech Republic,2013,24.06
+Hospitals,Per million population,Czech Republic,2014,24.42
+Hospitals,Per million population,Czech Republic,2015,24.27
+Hospitals,Per million population,Czech Republic,2016,24.61
+Hospitals,Per million population,Czech Republic,2017,24.35
+Hospitals,Per million population,Czech Republic,2018,24.08
+Hospitals,Per million population,Finland,2000,75.15
+Hospitals,Per million population,Finland,2001,75.37
+Hospitals,Per million population,Finland,2002,74.8
+Hospitals,Per million population,Finland,2003,72.89
+Hospitals,Per million population,Finland,2004,71.34
+Hospitals,Per million population,Finland,2005,70.34
+Hospitals,Per million population,Finland,2006,66.46
+Hospitals,Per million population,Finland,2007,61.45
+Hospitals,Per million population,Finland,2008,60.23
+Hospitals,Per million population,Finland,2009,55.82
+Hospitals,Per million population,Finland,2010,52.21
+Hospitals,Per million population,Finland,2011,51.04
+Hospitals,Per million population,Finland,2012,48.58
+Hospitals,Per million population,Finland,2013,47.62
+Hospitals,Per million population,Finland,2014,47.24
+Hospitals,Per million population,Finland,2015,48.91
+Hospitals,Per million population,Finland,2016,47.68
+Hospitals,Per million population,Finland,2017,44.84
+Hospitals,Per million population,Finland,2018,43.69
+Hospitals,Per million population,France,2000,51.35
+Hospitals,Per million population,France,2001,50.47
+Hospitals,Per million population,France,2002,49.59
+Hospitals,Per million population,France,2003,48.33
+Hospitals,Per million population,France,2004,47.34
+Hospitals,Per million population,France,2005,46.41
+Hospitals,Per million population,France,2006,45.45
+Hospitals,Per million population,France,2007,44.57
+Hospitals,Per million population,France,2008,43.47
+Hospitals,Per million population,France,2009,42.74
+Hospitals,Per million population,France,2010,41.76
+Hospitals,Per million population,France,2011,41.17
+Hospitals,Per million population,France,2012,40.6
+Hospitals,Per million population,France,2013,48.53
+Hospitals,Per million population,France,2014,46.91
+Hospitals,Per million population,France,2015,46.42
+Hospitals,Per million population,France,2016,45.94
+Hospitals,Per million population,France,2017,45.55
+Hospitals,Per million population,France,2018,45.43
+Hospitals,Per million population,Germany,2000,44.22
+Hospitals,Per million population,Germany,2001,44.06
+Hospitals,Per million population,Germany,2002,43.21
+Hospitals,Per million population,Germany,2003,42.56
+Hospitals,Per million population,Germany,2004,41.93
+Hospitals,Per million population,Germany,2005,41.34
+Hospitals,Per million population,Germany,2006,40.78
+Hospitals,Per million population,Germany,2007,40.43
+Hospitals,Per million population,Germany,2008,40.46
+Hospitals,Per million population,Germany,2009,40.58
+Hospitals,Per million population,Germany,2010,40.37
+Hospitals,Per million population,Germany,2011,40.83
+Hospitals,Per million population,Germany,2012,40.15
+Hospitals,Per million population,Germany,2013,39.47
+Hospitals,Per million population,Germany,2014,38.75
+Hospitals,Per million population,Germany,2015,38.05
+Hospitals,Per million population,Germany,2016,37.64
+Hospitals,Per million population,Germany,2017,37.31
+Hospitals,Per million population,Greece,2000,31.19
+Hospitals,Per million population,Greece,2001,30.93
+Hospitals,Per million population,Greece,2002,29.9
+Hospitals,Per million population,Greece,2003,29.92
+Hospitals,Per million population,Greece,2004,29.12
+Hospitals,Per million population,Greece,2005,28.85
+Hospitals,Per million population,Greece,2006,28.76
+Hospitals,Per million population,Greece,2007,28.33
+Hospitals,Per million population,Greece,2008,28.53
+Hospitals,Per million population,Greece,2009,28.18
+Hospitals,Per million population,Greece,2010,27.87
+Hospitals,Per million population,Greece,2011,28.28
+Hospitals,Per million population,Greece,2012,27.34
+Hospitals,Per million population,Greece,2013,26.45
+Hospitals,Per million population,Greece,2014,25.98
+Hospitals,Per million population,Greece,2015,26.15
+Hospitals,Per million population,Greece,2016,25.98
+Hospitals,Per million population,Greece,2017,25.76
+Hospitals,Per million population,Greece,2018,25.25
+Hospitals,Per million population,Hungary,2000,17.14
+Hospitals,Per million population,Hungary,2001,17.28
+Hospitals,Per million population,Hungary,2002,17.42
+Hospitals,Per million population,Hungary,2003,17.47
+Hospitals,Per million population,Hungary,2004,17.91
+Hospitals,Per million population,Hungary,2005,18.04
+Hospitals,Per million population,Hungary,2006,18.07
+Hospitals,Per million population,Hungary,2007,17.8
+Hospitals,Per million population,Hungary,2008,17.53
+Hospitals,Per million population,Hungary,2009,17.46
+Hospitals,Per million population,Hungary,2010,17.5
+Hospitals,Per million population,Hungary,2011,17.35
+Hospitals,Per million population,Hungary,2012,17.74
+Hospitals,Per million population,Hungary,2013,17.49
+Hospitals,Per million population,Hungary,2014,17.64
+Hospitals,Per million population,Hungary,2015,17.07
+Hospitals,Per million population,Hungary,2016,17.12
+Hospitals,Per million population,Hungary,2017,16.86
+Hospitals,Per million population,Hungary,2018,16.88
+Hospitals,Per million population,Iceland,2000,78.23
+Hospitals,Per million population,Iceland,2001,70.18
+Hospitals,Per million population,Iceland,2002,69.56
+Hospitals,Per million population,Iceland,2003,69.08
+Hospitals,Per million population,Iceland,2004,68.48
+Hospitals,Per million population,Iceland,2005,67.4
+Hospitals,Per million population,Iceland,2007,28.89
+Hospitals,Per million population,Iceland,2008,28.35
+Hospitals,Per million population,Iceland,2009,28.26
+Hospitals,Per million population,Iceland,2010,28.3
+Hospitals,Per million population,Iceland,2011,25.08
+Hospitals,Per million population,Iceland,2012,24.94
+Hospitals,Per million population,Iceland,2013,24.71
+Hospitals,Per million population,Iceland,2014,24.44
+Hospitals,Per million population,Iceland,2015,24.18
+Hospitals,Per million population,Iceland,2016,23.85
+Hospitals,Per million population,Iceland,2017,23.3
+Hospitals,Per million population,Iceland,2018,22.68
+Hospitals,Per million population,Iceland,2019,22.41
+Hospitals,Per million population,Ireland,2000,48.36
+Hospitals,Per million population,Ireland,2001,47.33
+Hospitals,Per million population,Ireland,2002,46.29
+Hospitals,Per million population,Ireland,2003,45.29
+Hospitals,Per million population,Ireland,2004,43.98
+Hospitals,Per million population,Ireland,2005,43.03
+Hospitals,Per million population,Ireland,2006,41.65
+Hospitals,Per million population,Ireland,2007,40.01
+Hospitals,Per million population,Ireland,2008,39.2
+Hospitals,Per million population,Ireland,2009,22.27
+Hospitals,Per million population,Ireland,2010,21.71
+Hospitals,Per million population,Ireland,2011,21.4
+Hospitals,Per million population,Ireland,2012,20.65
+Hospitals,Per million population,Ireland,2016,18.08
+Hospitals,Per million population,Ireland,2017,17.89
+Hospitals,Per million population,Ireland,2018,17.67
+Hospitals,Per million population,Italy,2000,23.2
+Hospitals,Per million population,Italy,2001,22.94
+Hospitals,Per million population,Italy,2002,22.54
+Hospitals,Per million population,Italy,2003,22.35
+Hospitals,Per million population,Italy,2004,22.47
+Hospitals,Per million population,Italy,2005,22.34
+Hospitals,Per million population,Italy,2006,22.07
+Hospitals,Per million population,Italy,2007,21.75
+Hospitals,Per million population,Italy,2008,21.4
+Hospitals,Per million population,Italy,2009,21
+Hospitals,Per million population,Italy,2010,20.75
+Hospitals,Per million population,Italy,2011,19.94
+Hospitals,Per million population,Italy,2012,19.42
+Hospitals,Per million population,Italy,2013,18.84
+Hospitals,Per million population,Italy,2014,18.44
+Hospitals,Per million population,Italy,2015,18.36
+Hospitals,Per million population,Italy,2016,17.98
+Hospitals,Per million population,Italy,2017,17.56
+Hospitals,Per million population,Italy,2018,17.53
+Hospitals,Per million population,Japan,2000,73
+Hospitals,Per million population,Japan,2001,72.58
+Hospitals,Per million population,Japan,2002,72.09
+Hospitals,Per million population,Japan,2003,71.48
+Hospitals,Per million population,Japan,2004,71.09
+Hospitals,Per million population,Japan,2005,70.64
+Hospitals,Per million population,Japan,2006,69.92
+Hospitals,Per million population,Japan,2007,69.22
+Hospitals,Per million population,Japan,2008,68.66
+Hospitals,Per million population,Japan,2009,68.26
+Hospitals,Per million population,Japan,2010,67.7
+Hospitals,Per million population,Japan,2011,67.31
+Hospitals,Per million population,Japan,2012,67.13
+Hospitals,Per million population,Japan,2013,67.03
+Hospitals,Per million population,Japan,2014,66.75
+Hospitals,Per million population,Japan,2015,66.72
+Hospitals,Per million population,Japan,2016,66.51
+Hospitals,Per million population,Japan,2017,66.39
+Hospitals,Per million population,Japan,2018,66.21
+Hospitals,Per million population,Korea,2000,24.27
+Hospitals,Per million population,Korea,2001,23.92
+Hospitals,Per million population,Korea,2002,26.61
+Hospitals,Per million population,Korea,2003,29.75
+Hospitals,Per million population,Korea,2004,31.15
+Hospitals,Per million population,Korea,2005,33.95
+Hospitals,Per million population,Korea,2006,39.12
+Hospitals,Per million population,Korea,2007,46.01
+Hospitals,Per million population,Korea,2008,51.21
+Hospitals,Per million population,Korea,2009,54.07
+Hospitals,Per million population,Korea,2010,56.69
+Hospitals,Per million population,Korea,2011,61.36
+Hospitals,Per million population,Korea,2012,65.7
+Hospitals,Per million population,Korea,2013,68.41
+Hospitals,Per million population,Korea,2014,72.36
+Hospitals,Per million population,Korea,2015,72.1
+Hospitals,Per million population,Korea,2016,73.92
+Hospitals,Per million population,Korea,2017,75.55
+Hospitals,Per million population,Korea,2018,75.99
+Hospitals,Per million population,Luxembourg,2005,30.1
+Hospitals,Per million population,Luxembourg,2006,29.62
+Hospitals,Per million population,Luxembourg,2007,27.08
+Hospitals,Per million population,Luxembourg,2008,26.6
+Hospitals,Per million population,Luxembourg,2009,26.12
+Hospitals,Per million population,Luxembourg,2010,23.67
+Hospitals,Per million population,Luxembourg,2011,25.08
+Hospitals,Per million population,Luxembourg,2012,24.48
+Hospitals,Per million population,Luxembourg,2013,23.93
+Hospitals,Per million population,Luxembourg,2014,21.57
+Hospitals,Per million population,Luxembourg,2015,21.07
+Hospitals,Per million population,Luxembourg,2016,20.57
+Hospitals,Per million population,Luxembourg,2017,16.77
+Hospitals,Per million population,Luxembourg,2018,16.45
+Hospitals,Per million population,Luxembourg,2019,16.13
+Hospitals,Per million population,Mexico,2000,40.01
+Hospitals,Per million population,Mexico,2001,39.74
+Hospitals,Per million population,Mexico,2002,40.28
+Hospitals,Per million population,Mexico,2003,40.33
+Hospitals,Per million population,Mexico,2004,39.42
+Hospitals,Per million population,Mexico,2005,40.15
+Hospitals,Per million population,Mexico,2006,39.62
+Hospitals,Per million population,Mexico,2007,39.95
+Hospitals,Per million population,Mexico,2008,39.66
+Hospitals,Per million population,Mexico,2009,39.31
+Hospitals,Per million population,Mexico,2010,39.17
+Hospitals,Per million population,Mexico,2011,38.4
+Hospitals,Per million population,Mexico,2012,37.81
+Hospitals,Per million population,Mexico,2013,37.45
+Hospitals,Per million population,Mexico,2014,36.64
+Hospitals,Per million population,Mexico,2015,36.72
+Hospitals,Per million population,Mexico,2016,36.46
+Hospitals,Per million population,Mexico,2017,36.58
+Hospitals,Per million population,Mexico,2018,36.94
+Hospitals,Per million population,Mexico,2019,37.19
+Hospitals,Per million population,Netherlands,2000,13.06
+Hospitals,Per million population,Netherlands,2001,12.78
+Hospitals,Per million population,Netherlands,2002,12.45
+Hospitals,Per million population,Netherlands,2003,12.26
+Hospitals,Per million population,Netherlands,2004,12.16
+Hospitals,Per million population,Netherlands,2005,12.13
+Hospitals,Per million population,Netherlands,2006,11.81
+Hospitals,Per million population,Netherlands,2007,11.6
+Hospitals,Per million population,Netherlands,2008,11.07
+Hospitals,Per million population,Netherlands,2009,25.17
+Hospitals,Per million population,Netherlands,2010,25.7
+Hospitals,Per million population,Netherlands,2011,26.9
+Hospitals,Per million population,Netherlands,2012,29.78
+Hospitals,Per million population,Netherlands,2013,30.29
+Hospitals,Per million population,Netherlands,2014,29.94
+Hospitals,Per million population,Netherlands,2015,30.52
+Hospitals,Per million population,Netherlands,2016,31.36
+Hospitals,Per million population,Netherlands,2017,31.87
+Hospitals,Per million population,Netherlands,2018,31.86
+Hospitals,Per million population,New Zealand,2009,37.42
+Hospitals,Per million population,New Zealand,2010,37.92
+Hospitals,Per million population,New Zealand,2011,37.41
+Hospitals,Per million population,New Zealand,2012,36.52
+Hospitals,Per million population,New Zealand,2013,36.02
+Hospitals,Per million population,New Zealand,2014,35.96
+Hospitals,Per million population,New Zealand,2015,35.98
+Hospitals,Per million population,New Zealand,2016,33.99
+Hospitals,Per million population,New Zealand,2017,34
+Hospitals,Per million population,New Zealand,2018,34.09
+Hospitals,Per million population,New Zealand,2019,32.5
+Hospitals,Per million population,Poland,2000,20.99
+Hospitals,Per million population,Poland,2001,21.67
+Hospitals,Per million population,Poland,2002,21.76
+Hospitals,Per million population,Poland,2003,21.46
+Hospitals,Per million population,Poland,2004,23.1
+Hospitals,Per million population,Poland,2005,22.9
+Hospitals,Per million population,Poland,2006,21.89
+Hospitals,Per million population,Poland,2007,24.03
+Hospitals,Per million population,Poland,2008,23.5
+Hospitals,Per million population,Poland,2009,24.01
+Hospitals,Per million population,Poland,2010,25.05
+Hospitals,Per million population,Poland,2011,25.43
+Hospitals,Per million population,Poland,2012,27.27
+Hospitals,Per million population,Poland,2013,28.52
+Hospitals,Per million population,Poland,2014,28.83
+Hospitals,Per million population,Poland,2015,28.09
+Hospitals,Per million population,Poland,2016,28.02
+Hospitals,Per million population,Poland,2017,33.55
+Hospitals,Per million population,Poland,2018,33.6
+Hospitals,Per million population,Portugal,2000,21.87
+Hospitals,Per million population,Portugal,2001,21.52
+Hospitals,Per million population,Portugal,2002,21.02
+Hospitals,Per million population,Portugal,2003,20.94
+Hospitals,Per million population,Portugal,2004,21.18
+Hospitals,Per million population,Portugal,2005,21.14
+Hospitals,Per million population,Portugal,2006,21
+Hospitals,Per million population,Portugal,2007,21.44
+Hospitals,Per million population,Portugal,2008,21.12
+Hospitals,Per million population,Portugal,2009,21.1
+Hospitals,Per million population,Portugal,2010,21.85
+Hospitals,Per million population,Portugal,2011,21.41
+Hospitals,Per million population,Portugal,2012,21.78
+Hospitals,Per million population,Portugal,2013,21.61
+Hospitals,Per million population,Portugal,2014,21.63
+Hospitals,Per million population,Portugal,2015,21.72
+Hospitals,Per million population,Portugal,2016,21.79
+Hospitals,Per million population,Portugal,2017,21.84
+Hospitals,Per million population,Portugal,2018,22.37
+Hospitals,Per million population,Slovak Republic,2000,25.98
+Hospitals,Per million population,Slovak Republic,2001,25.47
+Hospitals,Per million population,Slovak Republic,2002,25.48
+Hospitals,Per million population,Slovak Republic,2003,25.68
+Hospitals,Per million population,Slovak Republic,2004,26.8
+Hospitals,Per million population,Slovak Republic,2005,26.43
+Hospitals,Per million population,Slovak Republic,2006,27.73
+Hospitals,Per million population,Slovak Republic,2007,27.72
+Hospitals,Per million population,Slovak Republic,2008,25.65
+Hospitals,Per million population,Slovak Republic,2009,25.99
+Hospitals,Per million population,Slovak Republic,2010,25.41
+Hospitals,Per million population,Slovak Republic,2011,25.93
+Hospitals,Per million population,Slovak Republic,2012,25.33
+Hospitals,Per million population,Slovak Republic,2013,25.12
+Hospitals,Per million population,Slovak Republic,2014,24.73
+Hospitals,Per million population,Slovak Republic,2015,24.71
+Hospitals,Per million population,Slovak Republic,2016,24.49
+Hospitals,Per million population,Slovak Republic,2017,24.08
+Hospitals,Per million population,Slovak Republic,2018,23.87
+Hospitals,Per million population,Spain,2000,19.01
+Hospitals,Per million population,Spain,2001,18.8
+Hospitals,Per million population,Spain,2002,18.32
+Hospitals,Per million population,Spain,2003,17.56
+Hospitals,Per million population,Spain,2004,17.47
+Hospitals,Per million population,Spain,2005,17.2
+Hospitals,Per million population,Spain,2006,16.8
+Hospitals,Per million population,Spain,2007,16.89
+Hospitals,Per million population,Spain,2008,16.69
+Hospitals,Per million population,Spain,2009,16.61
+Hospitals,Per million population,Spain,2010,16.42
+Hospitals,Per million population,Spain,2011,16.32
+Hospitals,Per million population,Spain,2012,16.23
+Hospitals,Per million population,Spain,2013,16.39
+Hospitals,Per million population,Spain,2014,16.42
+Hospitals,Per million population,Spain,2015,16.47
+Hospitals,Per million population,Spain,2016,16.44
+Hospitals,Per million population,Spain,2017,16.72
+Hospitals,Per million population,Spain,2018,16.71
+Hospitals,Per million population,Sweden,2000,10.03
+Hospitals,Per million population,Sweden,2001,8.66
+Hospitals,Per million population,Sweden,2002,8.96
+Hospitals,Per million population,Sweden,2003,9.04
+Hospitals,Per million population,Switzerland,2000,52.34
+Hospitals,Per million population,Switzerland,2001,50.62
+Hospitals,Per million population,Switzerland,2002,50.1
+Hospitals,Per million population,Switzerland,2003,48.24
+Hospitals,Per million population,Switzerland,2004,46.69
+Hospitals,Per million population,Switzerland,2005,45.31
+Hospitals,Per million population,Switzerland,2006,44.5
+Hospitals,Per million population,Switzerland,2007,42.51
+Hospitals,Per million population,Switzerland,2008,41.58
+Hospitals,Per million population,Switzerland,2009,40.42
+Hospitals,Per million population,Switzerland,2010,38.34
+Hospitals,Per million population,Switzerland,2011,37.92
+Hospitals,Per million population,Switzerland,2012,37.26
+Hospitals,Per million population,Switzerland,2013,36.22
+Hospitals,Per million population,Switzerland,2014,35.29
+Hospitals,Per million population,Switzerland,2015,34.77
+Hospitals,Per million population,Switzerland,2016,33.8
+Hospitals,Per million population,Switzerland,2017,33.25
+Hospitals,Per million population,Switzerland,2018,33
+Hospitals,Per million population,Turkey,2000,17.98
+Hospitals,Per million population,Turkey,2001,18.4
+Hospitals,Per million population,Turkey,2002,17.51
+Hospitals,Per million population,Turkey,2003,17.58
+Hospitals,Per million population,Turkey,2004,18
+Hospitals,Per million population,Turkey,2005,17.48
+Hospitals,Per million population,Turkey,2006,17.36
+Hospitals,Per million population,Turkey,2007,18.77
+Hospitals,Per million population,Turkey,2008,19
+Hospitals,Per million population,Turkey,2009,19.28
+Hospitals,Per million population,Turkey,2010,19.69
+Hospitals,Per million population,Turkey,2011,19.58
+Hospitals,Per million population,Turkey,2012,19.73
+Hospitals,Per million population,Turkey,2013,19.92
+Hospitals,Per million population,Turkey,2014,19.8
+Hospitals,Per million population,Turkey,2015,19.6
+Hospitals,Per million population,Turkey,2016,19.05
+Hospitals,Per million population,Turkey,2017,18.9
+Hospitals,Per million population,Turkey,2018,18.84
+Hospitals,Per million population,United Kingdom,2012,27.43
+Hospitals,Per million population,United Kingdom,2013,25.65
+Hospitals,Per million population,United Kingdom,2014,24.27
+Hospitals,Per million population,United Kingdom,2015,28.9
+Hospitals,Per million population,United Kingdom,2016,29.29
+Hospitals,Per million population,United Kingdom,2017,29.06
+Hospitals,Per million population,United Kingdom,2018,28.74
+Hospitals,Per million population,United States,2000,20.59
+Hospitals,Per million population,United States,2001,20.36
+Hospitals,Per million population,United States,2002,20.14
+Hospitals,Per million population,United States,2003,19.87
+Hospitals,Per million population,United States,2004,19.67
+Hospitals,Per million population,United States,2005,19.48
+Hospitals,Per million population,United States,2006,19.26
+Hospitals,Per million population,United States,2007,18.95
+Hospitals,Per million population,United States,2008,19.12
+Hospitals,Per million population,United States,2009,18.89
+Hospitals,Per million population,United States,2010,18.6
+Hospitals,Per million population,United States,2011,18.37
+Hospitals,Per million population,United States,2012,18.24
+Hospitals,Per million population,United States,2013,17.99
+Hospitals,Per million population,United States,2014,17.68
+Hospitals,Per million population,United States,2015,17.35
+Hospitals,Per million population,United States,2016,17.14
+Hospitals,Per million population,United States,2017,19.11
+Hospitals,Per million population,Chile,2000,26.85
+Hospitals,Per million population,Chile,2001,27.06
+Hospitals,Per million population,Chile,2002,26.7
+Hospitals,Per million population,Chile,2003,25.29
+Hospitals,Per million population,Chile,2004,25.15
+Hospitals,Per million population,Chile,2005,24.78
+Hospitals,Per million population,Chile,2006,24.96
+Hospitals,Per million population,Chile,2007,24.7
+Hospitals,Per million population,Chile,2008,25.03
+Hospitals,Per million population,Chile,2009,23.81
+Hospitals,Per million population,Chile,2010,24.32
+Hospitals,Per million population,Chile,2011,22.31
+Hospitals,Per million population,Chile,2012,22.01
+Hospitals,Per million population,Chile,2013,22.09
+Hospitals,Per million population,Chile,2014,20.41
+Hospitals,Per million population,Chile,2015,20.2
+Hospitals,Per million population,Chile,2016,19.6
+Hospitals,Per million population,Chile,2017,19.44
+Hospitals,Per million population,Chile,2018,18.83
+Hospitals,Per million population,Estonia,2000,48.68
+Hospitals,Per million population,Estonia,2001,48.27
+Hospitals,Per million population,Estonia,2002,36.97
+Hospitals,Per million population,Estonia,2003,35.02
+Hospitals,Per million population,Estonia,2004,36.7
+Hospitals,Per million population,Estonia,2005,39.12
+Hospitals,Per million population,Estonia,2006,40.09
+Hospitals,Per million population,Estonia,2007,41.02
+Hospitals,Per million population,Estonia,2008,43.38
+Hospitals,Per million population,Estonia,2009,42.71
+Hospitals,Per million population,Estonia,2010,42.81
+Hospitals,Per million population,Estonia,2011,41.43
+Hospitals,Per million population,Estonia,2012,42.34
+Hospitals,Per million population,Estonia,2013,23.52
+Hospitals,Per million population,Estonia,2014,22.82
+Hospitals,Per million population,Estonia,2015,22.81
+Hospitals,Per million population,Estonia,2016,22.8
+Hospitals,Per million population,Estonia,2017,22.77
+Hospitals,Per million population,Estonia,2018,22.69
+Hospitals,Per million population,Israel,2000,13.83
+Hospitals,Per million population,Israel,2001,13.98
+Hospitals,Per million population,Israel,2002,13.7
+Hospitals,Per million population,Israel,2003,13.3
+Hospitals,Per million population,Israel,2004,13.22
+Hospitals,Per million population,Israel,2005,12.55
+Hospitals,Per million population,Israel,2006,11.63
+Hospitals,Per million population,Israel,2007,11.84
+Hospitals,Per million population,Israel,2008,11.63
+Hospitals,Per million population,Israel,2009,11.36
+Hospitals,Per million population,Israel,2010,11.28
+Hospitals,Per million population,Israel,2011,11.2
+Hospitals,Per million population,Israel,2012,10.87
+Hospitals,Per million population,Israel,2013,10.67
+Hospitals,Per million population,Israel,2014,10.35
+Hospitals,Per million population,Israel,2015,10.02
+Hospitals,Per million population,Israel,2016,9.83
+Hospitals,Per million population,Israel,2017,9.76
+Hospitals,Per million population,Israel,2018,9.57
+Hospitals,Per million population,Slovenia,2000,13.58
+Hospitals,Per million population,Slovenia,2001,13.55
+Hospitals,Per million population,Slovenia,2002,13.54
+Hospitals,Per million population,Slovenia,2003,13.53
+Hospitals,Per million population,Slovenia,2004,14.52
+Hospitals,Per million population,Slovenia,2005,14.5
+Hospitals,Per million population,Slovenia,2006,14.45
+Hospitals,Per million population,Slovenia,2007,14.37
+Hospitals,Per million population,Slovenia,2008,14.35
+Hospitals,Per million population,Slovenia,2009,14.22
+Hospitals,Per million population,Slovenia,2010,14.16
+Hospitals,Per million population,Slovenia,2011,14.13
+Hospitals,Per million population,Slovenia,2012,14.1
+Hospitals,Per million population,Slovenia,2013,14.08
+Hospitals,Per million population,Slovenia,2014,14.06
+Hospitals,Per million population,Slovenia,2015,14.05
+Hospitals,Per million population,Slovenia,2016,14.04
+Hospitals,Per million population,Slovenia,2017,14.03
+Hospitals,Per million population,Slovenia,2018,13.98
+Hospitals,Per million population,Slovenia,2019,13.94
+Hospitals,Per million population,Latvia,2000,59.98
+Hospitals,Per million population,Latvia,2001,59.9
+Hospitals,Per million population,Latvia,2002,55.84
+Hospitals,Per million population,Latvia,2003,57.26
+Hospitals,Per million population,Latvia,2004,52.58
+Hospitals,Per million population,Latvia,2005,48.69
+Hospitals,Per million population,Latvia,2006,47.78
+Hospitals,Per million population,Latvia,2007,42.72
+Hospitals,Per million population,Latvia,2008,40.42
+Hospitals,Per million population,Latvia,2009,32.22
+Hospitals,Per million population,Latvia,2010,31.94
+Hospitals,Per million population,Latvia,2011,33.99
+Hospitals,Per million population,Latvia,2012,32.44
+Hospitals,Per million population,Latvia,2013,32.3
+Hospitals,Per million population,Latvia,2014,32.1
+Hospitals,Per million population,Latvia,2015,33.88
+Hospitals,Per million population,Latvia,2016,33.17
+Hospitals,Per million population,Latvia,2017,32.44
+Hospitals,Per million population,Latvia,2018,32.17
+Hospitals,Per million population,Lithuania,2000,34.58
+Hospitals,Per million population,Lithuania,2001,34.57
+Hospitals,Per million population,Lithuania,2002,34.56
+Hospitals,Per million population,Lithuania,2003,35.14
+Hospitals,Per million population,Lithuania,2004,33.76
+Hospitals,Per million population,Lithuania,2005,34.01
+Hospitals,Per million population,Lithuania,2006,35.17
+Hospitals,Per million population,Lithuania,2007,33.73
+Hospitals,Per million population,Lithuania,2008,35.33
+Hospitals,Per million population,Lithuania,2009,36.04
+Hospitals,Per million population,Lithuania,2010,36.48
+Hospitals,Per million population,Lithuania,2011,34.68
+Hospitals,Per million population,Lithuania,2012,35.14
+Hospitals,Per million population,Lithuania,2013,33.47
+Hospitals,Per million population,Lithuania,2014,32.06
+Hospitals,Per million population,Lithuania,2015,32.7
+Hospitals,Per million population,Lithuania,2016,32.42
+Hospitals,Per million population,Lithuania,2017,32.88
+Hospitals,Per million population,Lithuania,2018,33.91
+Hospitals,Per million population,Costa Rica,2000,7.49
+Hospitals,Per million population,Costa Rica,2001,7.34
+Hospitals,Per million population,Costa Rica,2002,7.21
+Hospitals,Per million population,Costa Rica,2003,7.1
+Hospitals,Per million population,Costa Rica,2004,6.98
+Hospitals,Per million population,Costa Rica,2005,6.88
+Hospitals,Per million population,Costa Rica,2006,6.78
+Hospitals,Per million population,Costa Rica,2007,6.68
+Hospitals,Per million population,Costa Rica,2008,6.58
+Hospitals,Per million population,Costa Rica,2009,6.49
+Hospitals,Per million population,Costa Rica,2010,6.4
+Hospitals,Per million population,Costa Rica,2011,6.32
+Hospitals,Per million population,Costa Rica,2012,6.23
+Hospitals,Per million population,Costa Rica,2013,6.15
+Hospitals,Per million population,Costa Rica,2014,6.08
+Hospitals,Per million population,Costa Rica,2015,6
+Hospitals,Per million population,Costa Rica,2016,5.93
+Hospitals,Per million population,Costa Rica,2017,5.86
+Hospitals,Per million population,Costa Rica,2018,5.8
+Hospitals,Per million population,Costa Rica,2019,5.73
