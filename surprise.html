@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ethan Lee</title>
+        <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <main>
+            <section id = "about" class = "jumbotron" style="background-color:#ffffff; text-align: center">
+                  <div class = "header" style = "padding: 1px; text-align: center; background: #40aadb">
+                    <h2>Happy Birthday!</h2>
+                  </div>
+                  <br/>
+                  <div class = "container">
+                    <h4>Time for you to figure out where we're going! The first hint: Where you found your zero-th hint!</h4>
+                    <div class = "row">
+                    <div class = "column" style = "width: 25%; padding: 5px;">
+                    </br>
+                    <p>Stop #1</p>
+                </br>
+                <input id="text_a" type="text" />
+                <p id="answer"></p>
+                <button onclick="myFunction()">Check</button>
+
+                <script>
+                function myFunction()
+                {
+                var a=document.getElementById("text_a").value;
+
+                if (a=="TopDrawer" || a =="Topdrawer" || a =="topdrawer")
+                {
+                document.getElementById("answer").innerHTML="Correct! Next stop: x = First female Nobel Prize-winner; x.replace('i', ''); x.append('d'); x[0] = K;";
+                }
+                else
+                {
+                document.getElementById("answer").innerHTML="Meeeeeap";
+                }
+                }
+                </script>
+                    </div>
+                    <div class = "column" style = "width: 25%; padding: 5px;">
+                    </br>
+                    <p>Stop #2</p>
+                </br>
+                <input id="text_a2" type="text" />
+                <p id="answer2"></p>
+                <button onclick="myFunction2()">Check</button>
+
+                <script>
+                function myFunction2()
+                {
+                var a=document.getElementById("text_a2").value;
+
+                if (a=="Kured" || a=="kured")
+                {
+                document.getElementById("answer2").innerHTML="Correct! Next stop: A favorite food, in [Sea w/ avg depth 95m] [Not the beginning, but the ___]";
+                }
+                else
+                {
+                document.getElementById("answer2").innerHTML="Meeeeeap";
+                }
+                }
+                </script>
+                    </div>
+                    <div class = "column" style = "width: 25%; padding: 5px;">
+                    </br>
+                    <p>Stop #3</p>
+                </br>
+                <input id="text_a3" type="text" />
+                <p id="answer3"></p>
+                <button onclick="myFunction3()">Check</button>
+
+                <script>
+                function myFunction3()
+                {
+                var a=document.getElementById("text_a3").value;
+
+                if (a=="NorthEndFish&Sushi" || a=="northendfish&sushi" || a=="Northendfish&sushi")
+                {
+                document.getElementById("answer3").innerHTML="Correct! Last stop: Where is Mars???";
+                }
+                else
+                {
+                document.getElementById("answer3").innerHTML="Meeeeeap";
+                }
+                }
+                </script>
+                    </div>
+                    <div class = "column" style = "width: 25%; padding: 5px;">
+                    </br>
+                    <p>Stop #4</p>
+                </br>
+                <input id="text_a4" type="text" />
+                <p id="answer4"></p>
+                <button onclick="myFunction4()">Check</button>
+
+                <script>
+                function myFunction4()
+                {
+                var a=document.getElementById("text_a4").value;
+
+                if (a=="cambridgeside" || a=="Cambridgeside" || a=="CambridgeSide")
+                {
+                document.getElementById("answer4").innerHTML="Yayay let's go home!!!";
+                }
+                else
+                {
+                document.getElementById("answer4").innerHTML="Meeeeeap";
+                }
+                }
+                </script>
+                    </div>
+                    </div>
+                  </div>
+            </section>
+        </main>
+        <footer>
+          <p>
+
+          </p>
+        </footer>
+    </body>
+</html>
